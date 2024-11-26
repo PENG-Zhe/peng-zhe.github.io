@@ -1,11 +1,18 @@
 ---
-permalink: /markdown/
 title: "Markdown"
+permalink: /md/
+layout: archive
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+<div style="display:none">
+注释
+</div>
+
+A variety of common markup showing how the theme styles them.
 
 ## Locations of key files/directories
 
@@ -58,6 +65,17 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 ## Markdown guide
 
 Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+
+
+Heading 1
+======
+
+Heading 2
+======
+
+# Header one
+
+## Header two
 
 ### Header three
 
@@ -139,6 +157,14 @@ Do It Live
   2. List item two
   3. List item three
   4. List item four
+
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+
+## Insert image
+![alt text](/images/profile.png)
 
 ## Buttons
 

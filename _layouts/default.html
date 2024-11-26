@@ -6,11 +6,40 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+        ::selection {
+    color:#fff;
+    background-color: #494E52 ;
+    }
+
+        ::-moz-selection {
+    color:#fff;
+    background-color: #494E52 ;
+    }
+
+        ::-webkit-selection {
+    color:#fff;
+    background-color: #494E52 ;
+    }
+    </style>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelectorAll('a').forEach(function(link) {
+                if (!link.classList.contains('no-b')) {
+                    link.setAttribute('target', '_blank');
+                }
+            });
+        });
+    </script>
+
   </head>
 
+  
   <body>
 
     {% include browser-upgrade.html %}

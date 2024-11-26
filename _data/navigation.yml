@@ -8,20 +8,26 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
+  - title: "Services"
+    url: /services/    
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/CV.pdf
+
+  - title: "Team"
+    url: /team/
+
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Guide"
+#    url: /md/
+
+

@@ -1,49 +1,60 @@
 ---
+title: "About Me"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Peng is currently a Research Assistant Professor at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/){:target="_blank"}, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/){:target="_blank"}. Prior to joining ISE, he was a Research Assistant Professor of Computer Science at Hong Kong Baptist University, working closely with [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/){:target="_blank"}, and was the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn){:target="_blank"}.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University under the supervision of [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/){:target="_blank"}, Master’s degree in Information and Communication Engineering from University of Science and Technology of China, and Bachelor’s degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by [Prof. Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/){:target="_blank"}.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+His primary research interests include Blockchain, Web3, AIoT, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TMC, IEEE ToN, IEEE TDSC, ACM SIGMOD, ACM CCS, IEEE ICDE, IEEE INFOCOM, IEEE IROS, etc. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+He is ranked among the World’s Top 2% Scientists by Stanford University in 2024.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+# Openings
+We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in Blockchain, AIoT, Data Security and Privacy. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcript, and publications.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/){:target="_blank"} or dissertation supervision are also welcome. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# News
+- [2024-09] Ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
+- [2024-08] Welcome Ma Qing, Deng Jiamin, and Zheng Yihao join in our group.
+- [2024-05] Two papers were accepted by IEEE/ACM IWQoS 2024.
+- [2024-03] One paper was accepted by IEEE ICaMaL 2024.
+- [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
+- [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
+- [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
+- [2023-06] I joined the department of ISE at PolyU as Research Assistant Professor.
+- [2023-03] Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions was accepted by IEEE TDSC.
+
+<div style="display:none">
+- [2022-10] Serving as a Guest Editor for IET Blockchain special issue on <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_BLC_CFP_BD-1684760255360.pdf" target="_blank">Blockchain Databases</a>. Welcome submissions!
+- [2022-08] Our paper <a href="http://sites.computer.org/debull/A22june/p14.pdf" target="_blank">BlockShare</a> on Blockchain Data Sharing was accepted by IEEE Data Engineering Bulletin.
+- [2022-06] Our paper <a href="https://ieeexplore.ieee.org/document/9981149" target="_blank">EPAR</a> on Augmented Reality was accepted by IROS 2022.
+- [2022-01] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was selected as a popular article by IEEE TNSE.
+- [2021-04] Won Best Paper Award at DASFAA 2021.
+- [2021-03] Our paper on Privacy-Preserving Blockchain Data Verification was accepted by SIGMOD 2021.
+- [2021-01] Our paper on Digital Contact Tracing was accepted by DASFAA 2021.
+- [2020-12] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was accepted by IEEE TNSE.
+- [2020-10] Awarded a grant from Guangdong Basic and Applied Basic Research Foundation for Blockchain research.
+- [2020-01] I joined the department of Computer Science at HKBU as Research Assistant Professor.
+- [2019-11] Delivered an <a href="https://www.gs1hk.org/events/gs1hk-almc-forum-2019" target="_blank">Invited Talk on Blockchain Innovation</a> at <a href="https://www.hktdc.com/ncs/almc2019/en/main/index.html" target="_blank">HKTDC ALMC 2019</a>.
+ - [2019-06] Delivered an Invited Talk on Blockchain Applications in Smart Supply Chain at <a href="https://www.gs1hk.org/gs1hk-iot-conference" target="_blank">GS1 HK IoT Conference 2019</a>.
+</div>
+
+- ...
+
+
+
+
+
+
