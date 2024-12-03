@@ -34,7 +34,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 - [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 - [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
 - [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
-- [2023-06] I joined the department of ISE at PolyU as Research Assistant Professor.
+- [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
 
 
 <div style="display:none">
