@@ -8,7 +8,7 @@ layout: archive
 * **[Dr. Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (HIT), 2024 - Present
   * Image denoising and super-resolution
 
-* **[Dr. Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (HIT), 2024 - Present
+* **[Dr. Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (CAS), 2024 - Present
   * Trustworthy machine learning, data-centric AI
 
 
