@@ -8,12 +8,19 @@ layout: archive
 * **[Dr. Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (HIT), 2024 - Present
   * Image denoising and super-resolution
 
+* **[Dr. Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (HIT), 2024 - Present
+  * Trustworthy machine learning, data-centric AI
+
+
+
 
 ## Research Students
 * **Jiamin Deng** (CQU), 2024 - Present
   * DID for Web3
 * **Yihao Zheng** (UESTC), 2024 - Present
   * Autonomous planning and decision making
+
+
 
 
 ## Former Members
