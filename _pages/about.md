@@ -26,8 +26,9 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 
 # News
+- [2024-12] Welcome Dr Shikun Li join in our group!
 - [2024-09] Ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
-- [2024-08] Welcome Ma Qing, Deng Jiamin, and Zheng Yihao join in our group.
+- [2024-08] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [2024-05] Two papers were accepted by IEEE/ACM IWQoS 2024.
 - [2024-03] One paper was accepted by IEEE ICaMaL 2024.
 - [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
