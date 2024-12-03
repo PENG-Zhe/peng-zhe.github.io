@@ -9,14 +9,14 @@ layout: archive
   * Image denoising and super-resolution
 
 * **[Dr. Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (CAS), 2024 - Present
-  * Trustworthy machine learning, data-centric AI
+  * Trustworthy machine learning and data-centric AI
 
 
 
 
 ## Research Students
 * **Jiamin Deng** (CQU), 2024 - Present
-  * DID for Web3
+  * Decentralized identity (DID) for Web3
 * **Yihao Zheng** (UESTC), 2024 - Present
   * Autonomous planning and decision making
 
