@@ -29,14 +29,15 @@ author:
   employer         : # "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "jeffrey-zhe.peng@polyu.edu.hk"
+  tel              : "5589"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=DRJVmsAAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-6674-1640"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57169325400"
 
