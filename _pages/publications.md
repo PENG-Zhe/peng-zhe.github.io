@@ -4,6 +4,8 @@ permalink: /publications/
 layout: archive
 ---
 
+1. Qiushi Yang, Zhen Chen, **Zhe Peng**, and Yixuan Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, January 2025.
+
 1. Chenhao Lin, Xiang Ji, Yulong Yang, Qian Li, Zhengyu Zhao, **Zhe Peng**, Run Wang, Liming Fang, and Chao Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, Dec. 2024.
 
 1. Yu Li, Yueheng Lu, Xinyu Yang, and **Zhe Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, Dec. 2024.
