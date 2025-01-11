@@ -14,7 +14,7 @@ layout: archive
 
 
 
-## Research Students
+## Postgraduat Students
 * **Jiamin Deng** (CQU), 2024 - Present
   * Decentralized identity (DID) for Web3
 * **Yihao Zheng** (UESTC), 2024 - Present
