@@ -12,14 +12,14 @@ Dr. Peng is currently a Research Assistant Professor at the [Department of Indus
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University under the supervision of [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/){:target="_blank"}, Master’s degree in Information and Communication Engineering from University of Science and Technology of China, and Bachelor’s degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by [Prof. Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/){:target="_blank"}.
 
-His primary research interests include Blockchain, Web3, AIoT, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TMC, IEEE ToN, IEEE TDSC, ACM SIGMOD, ACM CCS, IEEE ICDE, IEEE INFOCOM, IEEE IROS, etc. 
+His primary research interests include Blockchain and Web3, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TMC, IEEE ToN, IEEE TDSC, ACM SIGMOD, ACM CCS, IEEE ICDE, IEEE INFOCOM, IEEE IROS, etc. 
 
-He is ranked among the World’s Top 2% Scientists by Stanford University in 2024.
+He was ranked among the World’s Top 2% Scientists by Stanford University in 2024.
 
 
 
 # Openings
-We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in Blockchain, AIoT, Data Security and Privacy. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
+We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in (i) Blockchain and Web3, and (ii) Autonomous Systems. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
 
 Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/){:target="_blank"} or dissertation supervision are also welcome. 
 
