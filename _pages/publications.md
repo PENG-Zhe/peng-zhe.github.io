@@ -4,6 +4,8 @@ permalink: /publications/
 layout: archive
 ---
 
+1. Haotian Wu, **Zhe Peng**, Jiang Xiao, Lei Xue, Chenhao Lin, Sai-Ho Chung, "HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, February 2025. 
+
 1. Qiushi Yang, Zhen Chen, **Zhe Peng**, and Yixuan Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, January 2025.
 
 1. Shang Gao, Tianyu Zheng, Yu Guo, **Zhe Peng**, and Bin Xiao, "Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions", in _Proc. of the IACR Public Key Cryptography (**PKC '25**)_, Røros, Norway, 2025.
