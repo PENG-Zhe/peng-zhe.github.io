@@ -42,7 +42,7 @@ layout: archive
 
 1. **Z. Peng**, C. Xu, H. Wang, J. Huang, J. Xu, and X. Chu, "[P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics](https://dl.acm.org/doi/abs/10.1145/3448016.3459237)", in _Proc. of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '21**)_, Xi'an, Shaanxi, China, 2021.
 
-1. **Z. Peng**, J. Huang, H. Wang, S. Wang, X. Chu, X. Zhang, L. Chen, X. Huang, X. Fu, Y. Guo, and J. Xu, "[BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing](https://link.springer.com/chapter/10.1007/978-3-030-73216-5_26)", in _Proc. of the International Conference on Database Systems for Advanced Applications (**DASFAA '21**) Workshops_, Taipei, Taiwan, 2021. (**Best Paper Award**)
+1. **Z. Peng**, J. Huang, H. Wang, S. Wang, X. Chu, X. Zhang, L. Chen, X. Huang, X. Fu, Y. Guo, and J. Xu, "[BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing](https://link.springer.com/chapter/10.1007/978-3-030-73216-5_26)", in _Proc. of the International Conference on Database Systems for Advanced Applications (**DASFAA '21**) Workshops_, 2021. (**Best Paper Award**)
 
 1. Y. Yao, B. Xiao, W. Wang, G. Yang, X. Zhou, and **Z. Peng**, "[Real-Time Cache-Aided Route Planning based on Mobile Edge Computing](https://ieeexplore.ieee.org/document/9183790)", _IEEE Wireless Communications_, Vol. 27, No. 5, pp. 155-161, October 2020.
 
