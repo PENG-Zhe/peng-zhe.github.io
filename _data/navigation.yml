@@ -14,8 +14,8 @@ main:
   - title: "Services"
     url: /services/    
 
-  - title: "CV"
-    url: /files/CV.pdf
+#  - title: "CV"
+#    url: /files/CV.pdf
 
   - title: "Team"
     url: /team/
