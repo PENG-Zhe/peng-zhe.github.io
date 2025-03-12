@@ -18,7 +18,7 @@ layout: archive
 
 1. B. Wang, T. Xing, X. Liu, **Z. Peng**, and H. Cui, "[Lightweight Multimodal Defect Detection at the Edge via Cross-Modal Distillation](https://ieeexplore.ieee.org/document/10682904)", in _Proc. of IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
 
-1. J. Sheng, J. Deng, S. Gao, H. Huang, and **Z. Peng**, "Authenticated Decentralized Identifier Retrieval for Blockchain-based Web 3.0", in _Proc. of the IEEE Global Communications Conference (**GLOBECOM '24**)_, Cape Town, South Africa, 2024.
+1. J. Sheng, J. Deng, S. Gao, H. Huang, and **Z. Peng**, "[Authenticated Decentralized Identifier Retrieval for Blockchain-based Web 3.0](https://ieeexplore.ieee.org/document/10901129)", in _Proc. of the IEEE Global Communications Conference (**GLOBECOM '24**)_, Cape Town, South Africa, 2024.
 
 1. C. Qiu, J. Deng, T. Peng, and **Z. Peng**, "Blockchain-based Verifiable Decentralized Identities for Cyber-Physical Web 3.0", in _Proc. of the IEEE International Conference on Automation in Manufacturing, Transportation and Logistics (**ICaMaL '24**)_, Hong Kong, China, 2024.
 
