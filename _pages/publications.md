@@ -4,6 +4,8 @@ permalink: /publications/
 layout: archive
 ---
 
+1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2025.
+
 1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, February 2025. 
 
 1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, January 2025.
