@@ -34,7 +34,7 @@ layout: archive
 
 1. H. Wu, **Z. Peng**, S. Guo, Y. Yang, and B. Xiao, "[VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems](https://ieeexplore.ieee.org/document/9541060)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 33, No. 6, pp. 1393-1406, June 2022.
 
-1. **Z. Peng**, J. Xu, X. Chu, S. Gao, Y. Yao, R. Gu, and Y. Tang, "[VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems](https://ieeexplore.ieee.org/document/9321132)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 9, No. 1, pp. 173-186, January 2022.
+1. **Z. Peng**, J. Xu, X. Chu, S. Gao, Y. Yao, R. Gu, and Y. Tang, "[VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems](https://ieeexplore.ieee.org/document/9321132)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 9, No. 1, pp. 173-186, January 2022. (**ESI Highly Cited Paper**)
 
 1. **Z. Peng**, S. Hou, and Y. Yuan, "[EPAR: An Efficient and Privacy-Aware Augmented Reality Framework for Indoor Location-Based Services](https://ieeexplore.ieee.org/document/9981149)", in _Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS '22**)_, Kyoto, Japan, 2022.
 
