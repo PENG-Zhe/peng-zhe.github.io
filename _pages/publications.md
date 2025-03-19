@@ -24,17 +24,17 @@ layout: archive
 
 1. C. Qiu, J. Deng, T. Peng, and **Z. Peng**, "Blockchain-based Verifiable Decentralized Identities for Cyber-Physical Web 3.0", in _Proc. of the IEEE International Conference on Automation in Manufacturing, Transportation and Logistics (**ICaMaL '24**)_, Hong Kong, China, 2024.
 
+1. Y. Teng, C.Z. Li, Geoffrey Q.P. Shen, Q. Yang, and **Z. Peng**, "[The Impact of Life Cycle Assessment Database Selection on Embodied Carbon Estimation of Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323006753)", _Building and Environment_, Vol. 243, pp. 110648, September 2023.
+
 1. S. Gao, **Z. Peng**, F. Tan, Y. Zheng, and B. Xiao, "[SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions](https://ieeexplore.ieee.org/document/9786741)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 20, No. 3, pp. 2289-2301, May 2023. 
 
-1. Y. Teng, C.Z. Li, Geoffrey Q.P. Shen, Q. Yang, and **Z. Peng**, "[The Impact of Life Cycle Assessment Database Selection on Embodied Carbon Estimation of Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323006753)", _Building and Environment_, Vol. 243, pp. 110648, September 2023.
+1. Z. Chen, C. Yang, M. Zhu, **Z. Peng**, and Y. Yuan, "[Personalized Retrogress-Resilient Federated Learning towards Imbalanced Medical Data](https://ieeexplore.ieee.org/document/9832948)", _IEEE Transactions on Medical Imaging (**TMI**)_, Vol. 41, No. 12, pp. 3663 – 3674, December 2022.
 
 1. **Z. Peng**, J. Xu, H. Hu, and L. Chen, "[BlockShare: A Blockchain Empowered System for Privacy-Preserving Verifiable Data Sharing](http://sites.computer.org/debull/A22june/p14.pdf)", _IEEE Data Engineering Bulletin_, June 2022.
 
 1. H. Wu, **Z. Peng**, S. Guo, Y. Yang, and B. Xiao, "[VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems](https://ieeexplore.ieee.org/document/9541060)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 33, No. 6, pp. 1393-1406, June 2022.
 
 1. **Z. Peng**, J. Xu, X. Chu, S. Gao, Y. Yao, R. Gu, and Y. Tang, "[VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems](https://ieeexplore.ieee.org/document/9321132)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 9, No. 1, pp. 173-186, January 2022.
-
-1. Z. Chen, C. Yang, M. Zhu, **Z. Peng**, and Y. Yuan, "[Personalized Retrogress-Resilient Federated Learning towards Imbalanced Medical Data](https://ieeexplore.ieee.org/document/9832948)", _IEEE Transactions on Medical Imaging (**TMI**)_, Vol. 41, No. 12, pp. 3663 – 3674, December 2022.
 
 1. **Z. Peng**, S. Hou, and Y. Yuan, "[EPAR: An Efficient and Privacy-Aware Augmented Reality Framework for Indoor Location-Based Services](https://ieeexplore.ieee.org/document/9981149)", in _Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS '22**)_, Kyoto, Japan, 2022.
 
@@ -56,23 +56,23 @@ layout: archive
 
 1. S. Gao, Z. Li, **Z. Peng**, and B. Xiao, "[Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System](https://dl.acm.org/doi/10.1145/3319535.3354203)", in _Proc. of the ACM SIGSAC Conference on Computer and Communications Security (**CCS '19**)_, London, UK, 2019. 
 
-1. **Z. Peng**, S. Gao, Z. Li, B. Xiao, and Y. Qian, "[Vehicle Safety Improvement through Deep Learning and Mobile Sensing](https://ieeexplore.ieee.org/document/8425297)", _IEEE Network_, Vol. 32, No. 4, pp. 28-33, July 2018. 
-
-1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**TASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. 
-
 1. **Z. Peng**, S. Gao, B. Xiao, G. Wei, S. Guo, and Y. Yang, "[Indoor Floor Plan Construction through Sensing Data Collected from Smartphones](https://ieeexplore.ieee.org/document/8428421)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 5, No. 6, pp. 4351-4364, December 2018. 
 
 1. Y. Yao, **Z. Peng**, and B. Xiao, "[Parallel Hyper-Heuristic Algorithm for Multi-objective Route Planning in a Smart City](https://ieeexplore.ieee.org/document/8456612)", _IEEE Transactions on Vehicular Technology (**TVT**)_, Vol. 67, No. 11, pp. 10307-10318, November 2018. 
+
+1. **Z. Peng**, S. Gao, Z. Li, B. Xiao, and Y. Qian, "[Vehicle Safety Improvement through Deep Learning and Mobile Sensing](https://ieeexplore.ieee.org/document/8425297)", _IEEE Network_, Vol. 32, No. 4, pp. 28-33, July 2018. 
+
+1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**TASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. 
 
 1. J. Li, **Z. Peng**, and B. Xiao, "[New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency](https://ieeexplore.ieee.org/document/8422390)", in _Proc. of the IEEE International Conference on Communications (**ICC '18**)_, Kansas City, MO, USA, 2018.
 
 1. J. Li, **Z. Peng**, S. Gao, B. Xiao, and H. Chan, "[Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices](https://www.sciencedirect.com/science/article/pii/S0140366416303012?via%3Dihub)", _Computer Communications_, Vol. 105, pp. 33-43, June 2017.
 
+1. S. Gao, **Z. Peng**, B. Xiao, A. Hu, and K. Ren, "[FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks](https://ieeexplore.ieee.org/document/8057009)", in _Proc. of the IEEE International Conference on Computer Communications (**INFOCOM '17**)_, Atlanta, GA, USA, 2017.
+
 1. **Z. Peng**, B. Xiao, Y. Yao, J. Guan, and F. Yang, "[U-Safety: Urban Safety Analysis in a Smart City](https://ieeexplore.ieee.org/document/7997102)", in _Proc. the IEEE International Conference on Communications (**ICC '17**)_, Paris, France, 2017.
 
 1. Y. Yao, **Z. Peng**, B. Xiao, and J. Guan, "[An Efficient Learning-based  Approach to Multi-objective Route Planning in a Smart City](https://ieeexplore.ieee.org/document/7997454)", in _Proc. of the IEEE International Conference on Communications (**ICC '17**)_, Paris, France, 2017.
-
-1. S. Gao, **Z. Peng**, B. Xiao, A. Hu, and K. Ren, "[FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks](https://ieeexplore.ieee.org/document/8057009)", in _Proc. of the IEEE International Conference on Computer Communications (**INFOCOM '17**)_, Atlanta, GA, USA, 2017.
 
 1. S. Gao, **Z. Peng**, B. Xiao, Q. Xiao, and Y. Song, "[SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing](https://ieeexplore.ieee.org/document/7969114)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '17**)_, Barcelona, Spain, 2017.
 
