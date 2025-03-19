@@ -12,7 +12,7 @@ Dr. Peng is currently a Research Assistant Professor at the [Department of Indus
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University under the supervision of [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/){:target="_blank"}, Master’s degree in Information and Communication Engineering from University of Science and Technology of China, and Bachelor’s degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by [Prof. Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/){:target="_blank"}.
 
-His primary research interests include Blockchain and Web3, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TMC, IEEE ToN, IEEE TPDS, IEEE TDSC, IEEE TIFS, ACM SIGMOD, ACM CCS, IEEE ICDE, IEEE INFOCOM, IEEE IROS, etc. 
+His primary research interests include Blockchain and Web3, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/IROS, etc. 
 
 He was ranked among the World’s Top 2% Scientists by Stanford University in 2024.
 
