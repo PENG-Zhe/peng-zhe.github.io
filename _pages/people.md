@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research Group"
 permalink: /people/
 layout: archive
 ---
