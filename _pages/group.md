@@ -1,6 +1,6 @@
 ---
-title: "Research Team"
-permalink: /team/
+title: "Research Group"
+permalink: /group/
 layout: archive
 ---
 
@@ -23,5 +23,5 @@ layout: archive
 
 
 
-## Former Members
+## Alumni
 * **Chen Qiu** (HKBU), Research Assistant, 2023-2024
