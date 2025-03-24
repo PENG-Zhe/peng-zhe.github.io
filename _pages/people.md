@@ -1,6 +1,6 @@
 ---
-title: "Research Group"
-permalink: /group/
+title: "People"
+permalink: /people/
 layout: archive
 ---
 
