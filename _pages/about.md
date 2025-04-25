@@ -7,23 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- -->
 
 Dr. Peng is currently a Research Assistant Professor at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/){:target="_blank"}, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/){:target="_blank"}. Prior to joining ISE, he was a Research Assistant Professor of Computer Science at Hong Kong Baptist University, working closely with [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/){:target="_blank"}, and was the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn){:target="_blank"}.
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University under the supervision of [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/){:target="_blank"}, the M.Phil. degree in Information and Communication Engineering from University of Science and Technology of China, and the B.Eng. degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by [Prof. Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/){:target="_blank"}.
 
-His primary research interests include Blockchain and Web3, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/IROS, etc. 
+His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/IROS, etc. 
 
 He was ranked among the World’s Top 2% Scientists by Stanford University in 2024.
 
 
-
 # Openings
-We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in (i) Blockchain and Web3, and (ii) Autonomous Systems. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
+We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in (i) Blockchain and Web3, and (ii) AI for Materials and Manufacturing. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
 
-<!-- -->
 Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/){:target="_blank"} or dissertation supervision are also welcome. 
-
 
 
 # News
@@ -36,7 +34,6 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 - [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
 - [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
 - [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
-
 
 <div style="display:none">
 - [2023-03] Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions was accepted by IEEE TDSC.
