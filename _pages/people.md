@@ -14,7 +14,7 @@ layout: archive
 
 
 
-## Postgraduate Students
+## PhD Students
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
 * **Yihao Zheng** (UESTC), 2024 - Present
@@ -23,5 +23,5 @@ layout: archive
 
 
 
-## Alumni
+## Alumni and Former Members
 * **Chen Qiu** (HKBU), Research Assistant, 2023-2024

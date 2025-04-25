@@ -53,6 +53,6 @@ layout: archive
 * IEEE International Conference on Computer Communications (INFOCOM)
 * IEEE International Conference on Distributed Computing Systems (ICDCS)
 * IEEE International Conference on Parallel and Distributed Systems (ICPADS)
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-* IEEE International Conference on Sensing, Communication and Networking (SECON)
 * IEEE/ACM International Symposium on Quality of Service (IWQoS)
+* IEEE International Conference on Sensing, Communication and Networking (SECON)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
