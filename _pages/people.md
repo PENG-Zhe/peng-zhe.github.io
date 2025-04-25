@@ -14,7 +14,7 @@ layout: archive
 
 
 
-## PhD Students
+## PhD/MPhil Students
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
 * **Yihao Zheng** (UESTC), 2024 - Present
