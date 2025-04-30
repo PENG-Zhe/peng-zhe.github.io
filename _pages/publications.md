@@ -12,7 +12,7 @@ layout: archive
 
 1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, January 2025.
 
-1. C. Zhang, Z. Yu, **Z. Peng**, M. Zhao, L. Zhu, and B. Xiao, "SecPoS: Slashable Proof-of-stake Consensus with Low Transaction Delays and Checkpoint Costs", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS'25**)_, Gold Coast, Australia, 2025.
+1. C. Zhang, Z. Yu, **Z. Peng**, M. Zhao, L. Zhu, and B. Xiao, "SecPoS: Slashable Proof-of-stake Consensus with Low Transaction Delays and Checkpoint Costs", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '25**)_, Gold Coast, Australia, 2025.
 
 1. S. Gao, T. Zheng, Y. Guo, **Z. Peng**, and B. Xiao, "Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions", in _Proc. of the IACR Public Key Cryptography (**PKC '25**)_, Røros, Norway, 2025.
 
