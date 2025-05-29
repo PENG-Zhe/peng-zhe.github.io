@@ -4,6 +4,8 @@ permalink: /publications/
 layout: archive
 ---
 
+1. W. Xu, J., J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing]", _IEEE Internet of Things Journal (**IoTJ**)_, 2025.
+
 1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, April, 2025.
 
 1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, March, 2025.
