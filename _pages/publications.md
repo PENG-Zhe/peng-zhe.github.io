@@ -12,15 +12,15 @@ layout: archive
 
 1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, February 2025. 
 
-1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, January 2025.
+1. Y. Li, Y. Lu, X. Yang, and **Z. Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, vol. 232, pp. 108037, February 2025.
+
+1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, Vol. 133, pp. 3312-3326, January 2025.
 
 1. C. Zhang, Z. Yu, **Z. Peng**, M. Zhao, L. Zhu, and B. Xiao, "SecPoS: Slashable Proof-of-stake Consensus with Low Transaction Delays and Checkpoint Costs", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '25**)_, Gold Coast, Australia, 2025.
 
 1. S. Gao, T. Zheng, Y. Guo, **Z. Peng**, and B. Xiao, "[Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions](https://link.springer.com/chapter/10.1007/978-3-031-91832-2_5)", in _Proc. of the IACR Public Key Cryptography (**PKC '25**)_, Røros, Norway, 2025.
 
-1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, December 2024.
-
-1. Y. Li, Y. Lu, X. Yang, and **Z. Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, December 2024.
+1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025.
 
 1. **Z. Peng**, J. Deng, S. Gao, H. Cui, and B. Xiao, "[vDID: Blockchain-Enabled Verifiable Decentralized Identity Management for Web 3.0](https://ieeexplore.ieee.org/abstract/document/10682610)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
 
