@@ -40,10 +40,10 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions was 
 - [2024-05] Two papers were accepted by IEEE/ACM IWQoS 2024.
 - [2024-03] One paper was accepted by IEEE ICaMaL 2024.
 - [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
-- [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
 
 
 <div style="display:none">
+- [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
 - [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
 - [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
 - [2023-03] Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions was accepted by IEEE TDSC.
