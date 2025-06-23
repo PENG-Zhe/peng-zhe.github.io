@@ -25,8 +25,8 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 
 # News
-- [2025-06] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Please consider submitting.
-- [2025-06] Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by IEEE IoTJ.
+- [2025-06] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Please consider submitting. <br>
+Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by IEEE IoTJ.
 - [2025-05] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
 - [2025-04] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
 - [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
@@ -36,7 +36,7 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is a
 - [2025-01] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning is accepted by IJCV.
 - [2024-12] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security is accepted by IEEE TIFS.
 - [2024-11] Welcome Dr Shikun Li join in our group!
-- [2024-09] Ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
+- [2024-09] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [2024-08] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [2024-05] Two papers are accepted by IEEE/ACM IWQoS 2024.
 - [2024-03] One paper is accepted by IEEE ICaMaL 2024.
