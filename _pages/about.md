@@ -25,7 +25,13 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 
 # News
-- [2024-12] Welcome Dr Shikun Li join in our group!
+- [2025-06] One paper was accepted by IEEE IoTJ.
+- [2025-04] One paper was accepted by IEEE TKDE. One paper was accepted by IEEE/ACM IWQoS 2025.
+- [2025-03] One paper was accepted by IEEE TPDS.
+- [2025-02] One paper was accepted by IEEE TDSC. One paper was accepted by Computer Communications. One paper was accepted by IACR PKC 2025.
+- [2025-01] One paper was accepted by IJCV.
+- [2024-12] One paper was accepted by IEEE TIFS.
+- [2024-11] Welcome Dr Shikun Li join in our group!
 - [2024-09] Ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [2024-08] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [2024-05] Two papers were accepted by IEEE/ACM IWQoS 2024.
