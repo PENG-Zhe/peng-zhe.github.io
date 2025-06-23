@@ -38,10 +38,11 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 - [2024-03] One paper was accepted by IEEE ICaMaL 2024.
 - [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 - [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
-- [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
-- [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
+
 
 <div style="display:none">
+- [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
+- [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
 - [2023-03] Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions was accepted by IEEE TDSC.
 - [2022-10] Serving as a Guest Editor for IET Blockchain special issue on <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/26341573/Special%20Issues/IET_BLC_CFP_BD-1684760255360.pdf" target="_blank">Blockchain Databases</a>. Welcome submissions!
 - [2022-08] Our paper <a href="http://sites.computer.org/debull/A22june/p14.pdf" target="_blank">BlockShare</a> on Blockchain Data Sharing was accepted by IEEE Data Engineering Bulletin.
