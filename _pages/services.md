@@ -13,10 +13,14 @@ layout: archive
 
 
 ## Conference Organization
+* Program Vice-Chair, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Zhengzhou, China, 2025
+* Organizing Chair, International Conference on Digital-Economy-Driven Business, Finance and Information Technology (DBFIT), Hong Kong, 2025
 * Session Chair, "QoS II", IEEE/ACM International Symposium on Quality of Service (IWQoS), Guangzhou, China, 2024
 * Session Chair, "Blockchain-Empowered Industrial Web 3.0", IEEE International Conference on Automation Science and Engineering (CASE), Bari, Italy, 2024
-* Organizing Committee Member, 2024 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2024) & the 14th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2024), Hong Kong, 2024
 
+<!-- 
+* Organizing Committee Member, 2024 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2024) & the 14th Forum for the Council of Chinese Industrial Engineering and Logistics Management Department Heads (CIEDH2024), Hong Kong, 2024
+-->
 
 
 ## Conference Technical Program Committee (TPC) Member
