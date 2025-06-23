@@ -27,10 +27,10 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 # News
 - [2025-06] Our paper on Blockchain-based Verifiable Decentralized Identity was accepted by IEEE IoTJ.
 - [2025-04] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries was accepted by IEEE TKDE. <br>
-Our paper SecPoS on Slashable Proof-of-stake Consensus was accepted by IEEE/ACM IWQoS 2025.
-- [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for Airborne Embedded Systems was accepted by IEEE TPDS.
+Our paper SecPoS on Slashable Proof-of-Stake Consensus was accepted by IEEE/ACM IWQoS 2025.
+- [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems was accepted by IEEE TPDS.
 - [2025-02] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries was accepted by IEEE TDSC. <br>
-Our paper on Mobile Web 3.0 was accepted by Computer Communications. <br>
+Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 was accepted by Computer Communications. <br>
 Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions was accepted by IACR PKC 2025.
 - [2025-01] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning was accepted by IJCV.
 - [2024-12] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security was accepted by IEEE TIFS.
