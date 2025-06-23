@@ -25,22 +25,22 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 
 # News
-- [2025-06] I am invited to serve as Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Please consider submitting.
+- [2025-06] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Please consider submitting.
 - [2025-06] Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by IEEE IoTJ.
-- [2025-05] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries was accepted by IEEE TKDE. 
-- [2025-04] Our paper SecPoS on Slashable Proof-of-Stake Consensus was accepted by IEEE/ACM IWQoS 2025.
-- [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems was accepted by IEEE TPDS.
-- [2025-02] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries was accepted by IEEE TDSC. <br>
-Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 was accepted by Computer Communications. <br>
-Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions was accepted by IACR PKC 2025.
-- [2025-01] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning was accepted by IJCV.
-- [2024-12] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security was accepted by IEEE TIFS.
+- [2025-05] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
+- [2025-04] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
+- [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
+- [2025-02] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries is accepted by IEEE TDSC. <br>
+Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Computer Communications. <br>
+Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is accepted by IACR PKC 2025.
+- [2025-01] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning is accepted by IJCV.
+- [2024-12] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security is accepted by IEEE TIFS.
 - [2024-11] Welcome Dr Shikun Li join in our group!
 - [2024-09] Ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [2024-08] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
-- [2024-05] Two papers were accepted by IEEE/ACM IWQoS 2024.
-- [2024-03] One paper was accepted by IEEE ICaMaL 2024.
-- [2024-01] Serving as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
+- [2024-05] Two papers are accepted by IEEE/ACM IWQoS 2024.
+- [2024-03] One paper is accepted by IEEE ICaMaL 2024.
+- [2024-01] I am invited to serve as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 
 
 <div style="display:none">
