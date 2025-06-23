@@ -26,7 +26,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 - [2025-06] Our paper on Blockchain-based Verifiable Decentralized Identity was accepted by IEEE IoTJ.
-- [2025-04] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries was accepted by IEEE TKDE. 
+- [2025-04] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries was accepted by IEEE TKDE.  
 Our paper SecPoS on Slashable Proof-of-stake Consensus was accepted by IEEE/ACM IWQoS 2025.
 - [2025-03] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for Airborne Embedded Systems was accepted by IEEE TPDS.
 - [2025-02] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries was accepted by IEEE TDSC. 
