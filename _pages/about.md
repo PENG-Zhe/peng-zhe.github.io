@@ -30,7 +30,7 @@ Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by I
 I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Please consider submitting.
 - [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
 - [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
-- [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
+- [Mar. 2025] Our paper on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
 - [Feb. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries is accepted by IEEE TDSC. <br>
 Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Computer Communications. <br>
 Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is accepted by IACR PKC 2025.
