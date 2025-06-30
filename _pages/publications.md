@@ -18,7 +18,7 @@ layout: archive
 
 1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025.
 
-1. Qing Ma, Pengwei Liang, Xiong Zhou, Jiayi Ma, Junjun Jiang, and **Zhe Peng**, "Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
+1. Q. Ma, P. Liang, X. Zhou, J. Ma, J. Jiang, and **Z. Peng**, "Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
 
 1. C. Zhang, Z. Yu, **Z. Peng**, M. Zhao, L. Zhu, and B. Xiao, "SecPoS: Slashable Proof-of-stake Consensus with Low Transaction Delays and Checkpoint Costs", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '25**)_, Gold Coast, Australia, 2025.
 
