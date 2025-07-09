@@ -23,5 +23,6 @@ layout: archive
 
 
 
-## Alumni and Former Members
+## Former Members
+<!-- Alumni -->
 * **Chen Qiu** (HKBU), Research Assistant, 2023-2024

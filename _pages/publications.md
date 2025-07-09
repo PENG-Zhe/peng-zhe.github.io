@@ -24,6 +24,10 @@ layout: archive
 
 1. S. Gao, T. Zheng, Y. Guo, **Z. Peng**, and B. Xiao, "[Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions](https://link.springer.com/chapter/10.1007/978-3-031-91832-2_5)", in _Proc. of the IACR Public Key Cryptography (**PKC '25**)_, Røros, Norway, 2025.
 
+1. Q. Han, J. Deng, S. Huang, Y. Li, G. Li, S. Jiang, and **Z. Peng**, "Adversarial Graph Perturbation for Smart Contract Vulnerability Detection", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
+
+1. Z. Xu, G. Li, **Z. Peng**, and A. Hu, "Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
+
 1. **Z. Peng**, J. Deng, S. Gao, H. Cui, and B. Xiao, "[vDID: Blockchain-Enabled Verifiable Decentralized Identity Management for Web 3.0](https://ieeexplore.ieee.org/abstract/document/10682610)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
 
 1. B. Wang, T. Xing, X. Liu, **Z. Peng**, and H. Cui, "[Lightweight Multimodal Defect Detection at the Edge via Cross-Modal Distillation](https://ieeexplore.ieee.org/document/10682904)", in _Proc. of IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
