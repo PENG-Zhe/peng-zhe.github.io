@@ -74,7 +74,7 @@ layout: archive
 
 1. **Z. Peng**, S. Gao, Z. Li, B. Xiao, and Y. Qian, "[Vehicle Safety Improvement through Deep Learning and Mobile Sensing](https://ieeexplore.ieee.org/document/8425297)", _IEEE Network_, Vol. 32, No. 4, pp. 28-33, July 2018. 
 
-1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**TASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. 
+1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**T-ASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. 
 
 1. J. Li, **Z. Peng**, and B. Xiao, "[New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency](https://ieeexplore.ieee.org/document/8422390)", in _Proc. of the IEEE International Conference on Communications (**ICC '18**)_, Kansas City, MO, USA, 2018.
 
