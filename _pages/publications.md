@@ -4,11 +4,11 @@ permalink: /publications/
 layout: archive
 ---
 
-1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, June, 2025.
+1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, June 2025.
 
-1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, April, 2025.
+1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, April 2025.
 
-1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, March, 2025.
+1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, March 2025.
 
 1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, February 2025. 
 
