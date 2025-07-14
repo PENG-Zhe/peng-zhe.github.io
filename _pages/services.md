@@ -45,6 +45,7 @@ layout: archive
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Transactions on Information Forensics and Security (TIFS)
+* IEEE Transactions on Automation Science and Engineering (T-ASE)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Transactions on Network Science and Engineering (TNSE)
 * IEEE Transactions on Network and Service Management (TNSM)
