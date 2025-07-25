@@ -32,7 +32,7 @@ Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by I
 I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">ICA3PP 2025</a>. Welcome submissions!
 - [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
 - [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025. <br>
-I am serving as a General Chair of <a href="https://bcra-conf.github.io/2025/calls/call-for-BWEB3/" target="_blank">International Workshop on Blockchain and Web3.0 (BWEB3 2025)</a>. Welcome submissions!
+I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/calls/call-for-BWEB3/" target="_blank">International Workshop on Blockchain and Web3.0 (BWEB3 2025)</a>. Welcome submissions!
 - [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
 - [Feb. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries is accepted by IEEE TDSC. <br>
 Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Computer Communications. <br>
