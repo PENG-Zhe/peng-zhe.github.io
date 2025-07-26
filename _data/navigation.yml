@@ -20,8 +20,11 @@ main:
 #  - title: "CV"
 #    url: /files/CV.pdf
 
-  - title: "People"
-    url: /people/
+
+  - title: "Group"
+    url: /group/
+#  - title: "People"
+#    url: /people/
 
 
 #  - title: "Talks"
