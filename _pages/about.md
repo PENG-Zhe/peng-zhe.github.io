@@ -9,13 +9,13 @@ redirect_from:
 ---
 <!-- -->
 
-Prof. Peng is currently an Assistant Professor at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/){:target="_blank"}, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/){:target="_blank"}. Prior to joining ISE, he was a Research Assistant Professor of Computer Science at Hong Kong Baptist University, working closely with [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/){:target="_blank"}, and was the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn){:target="_blank"}.
+Dr. Peng is currently an Assistant Professor at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/){:target="_blank"}, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/){:target="_blank"}. Prior to joining ISE, he was a Research Assistant Professor of Computer Science at Hong Kong Baptist University, working closely with [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/){:target="_blank"}, and was the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn){:target="_blank"}.
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University under the supervision of [Prof. Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/){:target="_blank"}, the M.Phil. degree in Information and Communication Engineering from University of Science and Technology of China, and the B.Eng. degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by [Prof. Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/){:target="_blank"}.
 
 His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/IROS, etc. 
 
-He was ranked among the World’s Top 2% Scientists by Stanford University in 2024.
+He was recognized among the World’s Top 2% Scientists by Stanford University in 2024.
 
 
 # Openings
