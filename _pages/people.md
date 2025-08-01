@@ -18,7 +18,7 @@ layout: archive
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
 * **Shichang Huang** (BJTU), 2025 - Present
-  * Reinforcement Learning for Autonomous systems
+  * Reinforcement learning for autonomous systems
 
 
 <!--
