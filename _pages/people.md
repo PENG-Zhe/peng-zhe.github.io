@@ -13,16 +13,21 @@ layout: archive
 
 
 
-
-## PhD/MPhil Students
+## PhD Students
+<!--## PhD/MPhil Students-->
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
-* **Yihao Zheng** (UESTC), 2024 - Present
-  * Autonomous planning and decision making
+* **Shichang Huang** (BJTU), 2025 - Present
+  * Reinforcement Learning for Autonomous systems
 
+
+<!--
+  Autonomous planning and decision making
+-->
 
 
 
 ## Former Members
 <!-- Alumni -->
+* **Yihao Zheng** (UESTC), Research Assistant, 2024 - 2025
 * **Chen Qiu** (HKBU), Research Assistant, 2023-2024
