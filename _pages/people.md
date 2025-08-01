@@ -26,8 +26,8 @@ layout: archive
 -->
 
 
-
+<!--
 ## Former Members
-<!-- Alumni -->
 * **Yihao Zheng** (UESTC), Research Assistant, 2024 - 2025
 * **Chen Qiu** (HKBU), Research Assistant, 2023-2024
+-->
