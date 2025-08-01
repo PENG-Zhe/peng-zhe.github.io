@@ -6,7 +6,7 @@ layout: archive
 
 1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication", _ACM Computing Surveys (**CSUR**)_, July 2025.
 
-1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "SDR: Stackelberg-based Deep Reinforcement Learning for Task Allocation in AIoT-based Multi-Skill Spatiotemporal Task", _Computer Communications_, July 2025. 
+1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems", _Computer Communications_, July 2025. 
 
 1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, June 2025.
 
