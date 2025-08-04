@@ -6,6 +6,7 @@ layout: archive
 
 ## Journal Editorship
 * Associate Editor, IET Blockchain, 2022 - 
+* Young Editor, Biomimetic Intelligence and Robotics (JCR Q1), 2025 - 
 * Guest Editor, Computer Communications (JCR Q1), 2024 - 
 * Guest Editor, Electronics, 2024 - 
 * Guest Editor, Big Data and Cognitive Computing, 2023 - 
