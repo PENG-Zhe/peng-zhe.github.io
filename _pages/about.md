@@ -25,6 +25,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 
 # News
+<!--I am serving as a Program Chair of-->
 - [Aug. 2025] We are organizing the <a href="https://bcra-conf.github.io/2025/calls/call-for-BWEB3/" target="_blank">International Workshop on Blockchain and Web3.0 (BWEB3 2025)</a>. Four keynotes on Web3 will be delivered from 14:00-16:00 on 11 August 2025 at TU107, PolyU. Welcome participation!
 - [Jul. 2025] Our paper on Defenses against AI-generated Visual Media is accepted by ACM CSUR. <br>
 Our paper on Deep Reinforcement Learning for Task Allocation is accepted by Computer Communications.
