@@ -34,7 +34,7 @@ Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by I
 I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
 - [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
-- [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Resources Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
+- [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
 - [Feb. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries is accepted by IEEE TDSC. <br>
 Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Computer Communications. <br>
 Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is accepted by IACR PKC 2025.
@@ -44,11 +44,11 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is a
 - [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [Aug. 2024] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [May 2024] Two papers are accepted by IEEE/ACM IWQoS 2024.
-- [Mar. 2024] One paper is accepted by IEEE ICaMaL 2024.
-- [Jan. 2024] I am invited to serve as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 
 
 <div style="display:none">
+- [Mar. 2024] One paper is accepted by IEEE ICaMaL 2024.
+- [Jan. 2024] I am invited to serve as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 - [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
 - [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
 - [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
