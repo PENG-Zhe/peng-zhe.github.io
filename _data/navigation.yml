@@ -21,10 +21,10 @@ main:
 #    url: /files/CV.pdf
 
 
-  - title: "Group"
-    url: /group/
-#  - title: "People"
-#    url: /people/
+#  - title: "Group"
+#    url: /group/
+  - title: "People"
+    url: /people/
 
 
 #  - title: "Talks"
