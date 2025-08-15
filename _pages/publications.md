@@ -4,7 +4,7 @@ permalink: /publications/
 layout: archive
 ---
 
-1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "A Survey on Deep Learning Fundamentals", _Artificial Intelligence Review_, 2025.
+1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "A Survey on Deep Learning Fundamentals", _Artificial Intelligence Review_, August 2025.
 
 1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication", _ACM Computing Surveys (**CSUR**)_, July 2025.
 
