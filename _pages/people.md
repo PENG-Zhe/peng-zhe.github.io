@@ -18,11 +18,16 @@ layout: archive
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
 * **Shichang Huang** (BJTU), 2025 - Present
-  * Reinforcement learning for autonomous systems
+  * Intelligent process design in metal forming
+* **Qi Han** (MPhil), 2025 - Present
+  * Data-centric quality monitoring and control
+
+
 
 
 <!--
-  Autonomous planning and decision making
+  * Autonomous planning and decision making
+  * Reinforcement learning for autonomous systems
 -->
 
 
