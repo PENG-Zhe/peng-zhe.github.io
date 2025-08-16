@@ -8,15 +8,15 @@ layout: archive
 
 1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication", _ACM Computing Surveys (**CSUR**)_, July 2025.
 
-1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "[SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems](https://www.sciencedirect.com/science/article/pii/S0140366425002403)", _Computer Communications_, July 2025. 
+1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "[SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems](https://www.sciencedirect.com/science/article/pii/S0140366425002403)", _Computer Communications_, vol. 242, pp. 108283, July 2025. 
 
-1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, June 2025.
+1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 12, No. 16, pp. 32366-32378, June 2025.
 
-1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, April 2025.
+1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, Vol. 37, No. 7, pp. 4299-4313, April 2025.
 
-1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, March 2025.
+1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 36, No. 6, pp. 1058-1070, March 2025.
 
-1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, February 2025. 
+1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 22, No. 4, pp. 3751-3765, February 2025. 
 
 1. Y. Li, Y. Lu, X. Yang, and **Z. Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, vol. 232, pp. 108037, February 2025.
 
