@@ -26,9 +26,8 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
-- [Aug. 2025] Our paper on Hexapod Robot Contorl is accepted by IEEE ICIA 2025 and receives Best Student Paper Award. Congratulations to Shichang Huang!
+- [Aug. 2025] Our paper on Hexapod Robot Contorl is accepted by IEEE ICIA 2025 and receives Best Student Paper Award. Congratulations to Shichang Huang! <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
-Welcome Shichang Huang and Qi Han join in our group!
 - [Jul. 2025] Our paper on Defenses against AI-generated Visual Media is accepted by ACM CSUR. <br>
 Our paper on Deep Reinforcement Learning for Task Allocation is accepted by Computer Communications.
 - [Jun. 2025] Our paper on Image Denoising is accepted by IEEE/CVF ICCV 2025. <br>
