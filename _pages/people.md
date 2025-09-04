@@ -1,5 +1,5 @@
 ---
-title: "Research Group"
+title: "Industrial Intelligence and Systems (IIS) Group"
 permalink: /people/
 layout: archive
 ---
