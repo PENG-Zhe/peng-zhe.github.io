@@ -44,11 +44,11 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is a
 - [Dec. 2024] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security is accepted by IEEE TIFS.
 - [Nov. 2024] Welcome Dr Shikun Li join in our group!
 - [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
-- [Aug. 2024] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
-- [May 2024] Two papers are accepted by IEEE/ACM IWQoS 2024.
 
 
 <div style="display:none">
+- [Aug. 2024] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
+- [May 2024] Two papers are accepted by IEEE/ACM IWQoS 2024.
 - [Mar. 2024] One paper is accepted by IEEE ICaMaL 2024.
 - [Jan. 2024] I am invited to serve as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
 - [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
