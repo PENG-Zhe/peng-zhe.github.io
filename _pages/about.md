@@ -43,11 +43,11 @@ Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Compu
 Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is accepted by IACR PKC 2025.
 - [Jan. 2025] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning is accepted by IJCV.
 - [Dec. 2024] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security is accepted by IEEE TIFS.
-- [Nov. 2024] Welcome Dr Shikun Li join in our group!
-- [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 
 
 <div style="display:none">
+- [Nov. 2024] Welcome Dr Shikun Li join in our group!
+- [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [Aug. 2024] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [May 2024] Two papers are accepted by IEEE/ACM IWQoS 2024.
 - [Mar. 2024] One paper is accepted by IEEE ICaMaL 2024.
