@@ -26,6 +26,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
+- [Oct. 2025] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [Aug. 2025] Our paper on Hexapod Robot Contorl receives the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang! <br>
 Our paper on Blockchain-based DID Management receives the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng! <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
@@ -33,7 +34,6 @@ I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/pro
 Our paper on Deep Reinforcement Learning for Task Allocation is accepted by Computer Communications.
 - [Jun. 2025] Our paper on Image Denoising is accepted by IEEE/CVF ICCV 2025. <br>
 Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by IEEE IoTJ. <br>
-I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
 - [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
 - [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
