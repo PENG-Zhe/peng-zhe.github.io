@@ -5,27 +5,29 @@ layout: archive
 ---
 
 ## Postdoc Fellows
-* **[Dr. Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (HIT), 2024 - Present
-  * Image denoising and super-resolution
-
-* **[Dr. Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (CAS), 2024 - Present
-  * Trustworthy machine learning and data-centric AI
-
+* **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - Present
+  * Blockchain, Network Resource Management, Network Security and Privacy
 
 
 ## PhD Students
 <!--## PhD/MPhil Students-->
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
+
 * **Shichang Huang** (BJTU), 2025 - Present
   * Intelligent process design in metal forming
+
+* **Wenqi Zhang** (Visiting PhD Student from NPU), 2025 - Present
+  * Autonomous systems
+
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
 
 
 
-
 <!--
+  * Physics-informed reinforcement learning for metal processing design
+  * Interpretable
   * Autonomous planning and decision making
   * Reinforcement learning for autonomous systems
 -->
@@ -33,6 +35,6 @@ layout: archive
 
 <!--
 ## Former Members
-* **Yihao Zheng** (UESTC), Research Assistant, 2024 - 2025
-* **Chen Qiu** (HKBU), Research Assistant, 2023-2024
+* **[Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (Postdoc Fellow, PhD CAS, 2024-2025), First Employment: 
+* **[Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (Postdoc Fellow, PhD HIT, 2024-2025), Current Employment: 
 -->
