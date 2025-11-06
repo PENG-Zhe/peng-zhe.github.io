@@ -34,9 +34,9 @@ layout: archive
 
 1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security", in _Prof. of the International Conference on Blockchain Research and Applications (**BCRA '25**)_, Hong Kong, China, 2025. (**Best Workshop Paper Award**)
 
-1. Q. Han, J. Deng, S. Huang, Y. Li, G. Li, S. Jiang, and **Z. Peng**, "Adversarial Graph Perturbation for Smart Contract Vulnerability Detection", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
+1. Q. Han, J. Deng, S. Huang, Y. Li, G. Li, S. Jiang, and **Z. Peng**, "[Adversarial Graph Perturbation for Smart Contract Vulnerability Detection](https://ieeexplore.ieee.org/document/11194994)", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
 
-1. Z. Xu, G. Li, **Z. Peng**, and A. Hu, "Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025. (**Best Paper Award Runner-up**)
+1. Z. Xu, G. Li, **Z. Peng**, and A. Hu, "[Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting](https://ieeexplore.ieee.org/document/11194949)", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025. (**Best Paper Award Runner-up**)
 
 1. **Z. Peng**, J. Deng, S. Gao, H. Cui, and B. Xiao, "[vDID: Blockchain-Enabled Verifiable Decentralized Identity Management for Web 3.0](https://ieeexplore.ieee.org/abstract/document/10682610)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
 
