@@ -26,23 +26,24 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
+- [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.
 - [Oct. 2025] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
-- [Sep. 2025] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
+- [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
 - [Aug. 2025] Our paper on Hexapod Robot Contorl receives the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang! <br>
 Our paper on Blockchain-based DID Management receives the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng! <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
-- [Jul. 2025] Our paper on Defenses against AI-generated Visual Media is accepted by ACM CSUR. <br>
-Our paper on Deep Reinforcement Learning for Task Allocation is accepted by Computer Communications.
-- [Jun. 2025] Our paper on Image Denoising is accepted by IEEE/CVF ICCV 2025. <br>
-Our paper on Blockchain-based Verifiable Decentralized Identity is accepted by IEEE IoTJ. <br>
-- [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries is accepted by IEEE TKDE. 
-- [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus is accepted by IEEE/ACM IWQoS 2025.
-- [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Scheduling for UAV Embedded Systems is accepted by IEEE TPDS.
-- [Feb. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries is accepted by IEEE TDSC. <br>
-Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 is accepted by Computer Communications. <br>
-Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions is accepted by IACR PKC 2025.
-- [Jan. 2025] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning is accepted by IJCV.
-- [Dec. 2024] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security is accepted by IEEE TIFS.
+- [Jul. 2025] Our paper on Defenses against AI-generated Visual Media has been accepted by ACM CSUR. <br>
+Our paper on Deep Reinforcement Learning for Task Allocation has been accepted by Computer Communications.
+- [Jun. 2025] Our paper on Image Denoising has been accepted by IEEE/CVF ICCV 2025. <br>
+Our paper on Blockchain-based Verifiable Decentralized Identity has been accepted by IEEE IoTJ. <br>
+- [May 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10979200" target="_blank">TELEX</a> on Learned Index for Blockchain Queries has been accepted by IEEE TKDE. 
+- [Apr. 2025] Our paper SecPoS on Slashable Proof-of-Stake Consensus has been accepted by IEEE/ACM IWQoS 2025.
+- [Mar. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10942549" target="_blank">WAMSPRES</a> on NPU Scheduling for UAV Embedded Systems has been accepted by IEEE TPDS.
+- [Feb. 2025] Our paper <a href="https://ieeexplore.ieee.org/document/10882945" target="_blank">HeX</a> on TEE-based Encrypted Queries has been accepted by IEEE TDSC. <br>
+Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 has been accepted by Computer Communications. <br>
+Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions has been accepted by IACR PKC 2025.
+- [Jan. 2025] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning has been accepted by IJCV.
+- [Dec. 2024] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security has been accepted by IEEE TIFS.
 
 
 <div style="display:none">
