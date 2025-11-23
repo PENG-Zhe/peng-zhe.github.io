@@ -15,7 +15,7 @@ He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic 
 
 His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, IJCV, ACM SIGMOD/CCS, IEEE ICCV/ICDE/INFOCOM/IROS, etc. 
 
-He was recognized among the World’s Top 2% Scientists by Stanford University from 2024-2025.
+He has been recognized among the World’s Top 2% Scientists by Stanford University from 2024-2025.
 
 
 # Openings
@@ -27,10 +27,10 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 # News
 <!-- -->
 - [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.
-- [Oct. 2025] I am invited to serve as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
+- [Oct. 2025] I am serving as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
-- [Aug. 2025] Our paper on Hexapod Robot Contorl receives the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang! <br>
-Our paper on Blockchain-based DID Management receives the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng! <br>
+- [Aug. 2025] Our paper on Hexapod Robot Contorl has received the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang! <br>
+Our paper on Blockchain-based DID Management has received the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng! <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
 - [Jul. 2025] Our paper on Defenses against AI-generated Visual Media has been accepted by ACM CSUR. <br>
 Our paper on Deep Reinforcement Learning for Task Allocation has been accepted by Computer Communications.
