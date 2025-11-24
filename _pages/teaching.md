@@ -4,7 +4,9 @@ permalink: /teaching/
 layout: archive
 ---
 
-* **[ISE5333]** Industrial Blockchain and Applications, _Spring 2025_
+* **[ISE449]** Mobile Technologies for Logistics Systems, _Spring 2026_
+* **[ISE5334]** Industrial Prompt Engineering for Generative Artificial Intelligence, _Spring 2026_
+* **[ISE5333]** Industrial Blockchain and Applications, _Spring 2025-2026_
 * **[ISE5331]** Optimization and Data Analytics for Industry 4.0, _Fall 2024_
 * **[ISE2001]** Introduction to Enterprise Computing, _Spring 2024_
 * **[COMP4137]** Blockchain Technology and Applications, _Spring 2022-2023_
