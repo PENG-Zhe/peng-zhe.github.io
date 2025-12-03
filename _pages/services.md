@@ -8,7 +8,8 @@ layout: archive
 * Associate Editor, IET Blockchain, 2022 - 
 * Young Editor, ELSP Blockchain, 2025 - 
 * Young Editor, Biomimetic Intelligence and Robotics (JCR Q1), 2025 - 
-* Guest Editor, Computer Communications (JCR Q1), 2024 - 
+* Guest Editor, Computer Communications (JCR Q1), 2024 - 2025
+* Guest Editor, Sensors, 2024 - 2026
 * Guest Editor, Electronics, 2024 - 2025
 * Guest Editor, Big Data and Cognitive Computing, 2023 - 2024
 
