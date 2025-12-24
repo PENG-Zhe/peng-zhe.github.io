@@ -26,6 +26,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
+- [Dec. 2025] I am elected to join the CCF Technical Committee on Blockchain.
 - [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.
 - [Oct. 2025] I am serving as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.

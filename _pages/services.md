@@ -4,6 +4,9 @@ permalink: /services/
 layout: archive
 ---
 
+## Committee Member
+* Technical Committee on Blockchain, China Computer Federation (CCF), 2025 - 
+
 ## Journal Editorship
 * Associate Editor, IET Blockchain, 2022 - 
 * Young Editor, ELSP Blockchain, 2025 - 
