@@ -24,9 +24,9 @@ layout: archive
 
 1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025.
 
-1. Q. Ma, P. Liang, X. Zhou, J. Ma, J. Jiang, and **Z. Peng**, "Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
+1. Q. Ma, P. Liang, X. Zhou, J. Ma, J. Jiang, and **Z. Peng**, "[Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_Robust_Test-Time_Adaptation_for_Single_Image_Denoising_Using_Deep_Gaussian_ICCV_2025_paper.html)", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
 
-1. S. Huang, M. Zheng, and **Z. Peng**, "Efficient and Progressive Multi-Task Reinforcement Learning for Fault-Tolerant Hexapod Locomotion", in _Proc. of the IEEE International Conference on Information Automation (**ICIA '25**)_, Lanzhou, China, 2025. (**Best Student Paper Award**)
+1. S. Huang, M. Zheng, and **Z. Peng**, "[Efficient and Progressive Multi-Task Reinforcement Learning for Fault-Tolerant Hexapod Locomotion](https://ieeexplore.ieee.org/document/11277920)", in _Proc. of the IEEE International Conference on Information Automation (**ICIA '25**)_, Lanzhou, China, 2025. (**Best Student Paper Award**)
 
 1. C. Zhang, Z. Yu, **Z. Peng**, M. Zhao, L. Zhu, and B. Xiao, "[SecPoS: Slashable Proof-of-stake Consensus with Low Transaction Delays and Checkpoint Costs](https://ieeexplore.ieee.org/document/11143512)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '25**)_, Gold Coast, Australia, 2025.
 
