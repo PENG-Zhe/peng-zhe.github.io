@@ -23,7 +23,9 @@ layout: archive
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
 
-
+## Research Assistants
+* **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
+  * Agentic AI-assisted Production Scheduling
 
 <!--
   * Physics-informed reinforcement learning for metal-forming processes design
