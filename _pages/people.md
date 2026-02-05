@@ -25,12 +25,13 @@ layout: archive
 
 ## Research Assistants
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
-  * Agentic AI-assisted Production Scheduling
+  * Multimodal AI for quality evaluation
 
 <!--
   * Physics-informed reinforcement learning for metal-forming processes design
   * Autonomous planning and decision making
   * Reinforcement learning for autonomous systems
+  * Agentic AI-assisted Production Scheduling
 -->
 
 
