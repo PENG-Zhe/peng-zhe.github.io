@@ -4,7 +4,7 @@ permalink: /people/
 layout: archive
 ---
 
-## Postdoc Fellows
+## Postdoctoral Fellows
 * **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - Present
   * Blockchain, Network resource management, Network security and privacy
 
