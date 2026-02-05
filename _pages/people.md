@@ -15,7 +15,7 @@ layout: archive
   * Decentralized identity (DID) for Web3
 
 * **Shichang Huang** (BJTU), 2025 - Present
-  * Interpretable deep learning for metal-forming processes design
+  * Knowledge-Enhanced deep learning for metal-forming processes design
 
 * **Wenqi Zhang** (Visiting PhD Student from NPU), 2025 - Present
   * Autonomous systems
@@ -29,9 +29,12 @@ layout: archive
 
 <!--
   * Physics-informed reinforcement learning for metal-forming processes design
+  * Agentic AI-assisted Production Scheduling
+  * Harnessing Multimodal AI for Knowledge-Enhanced Computational Pathology
+  * Interpretable deep learning for metal-forming processes design
+
   * Autonomous planning and decision making
   * Reinforcement learning for autonomous systems
-  * Agentic AI-assisted Production Scheduling
 -->
 
 
