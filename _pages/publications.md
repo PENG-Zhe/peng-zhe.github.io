@@ -22,6 +22,8 @@ layout: archive
 
 1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, Vol. 133, pp. 3312-3326, January 2025.
 
+1. S. Hou, F. Lin, Y. Huang, **Z. Peng**, and B. Xiao, "[Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation](https://www.jstage.jst.go.jp/article/iis/31/1/31_2025.A.04/_article/-char/en)", _Interdisciplinary Information Sciences_, Vol. 31, No. 1, pp. 41-51, January 2025.
+
 1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025.
 
 1. Q. Ma, P. Liang, X. Zhou, J. Ma, J. Jiang, and **Z. Peng**, "[Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_Robust_Test-Time_Adaptation_for_Single_Image_Denoising_Using_Deep_Gaussian_ICCV_2025_paper.html)", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
