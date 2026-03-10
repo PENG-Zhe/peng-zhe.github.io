@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications]", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026.
+1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026.
 
 1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "[A Survey on Deep Learning Fundamentals](https://link.springer.com/article/10.1007/s10462-025-11368-7)", _Artificial Intelligence Review_, August 2025.
 
