@@ -9,8 +9,6 @@ layout: archive
 
 1. Z. Liang, B. Chen, L. Ye, C. Sun, S. Wang, and **Z. Peng**, "A study of the spectrum resource leasing method based on ERC4907 extension", in _Proc. of the International Conference on Computer and Communication Systems (**ICCCS '26**)_, Wuhan, China, 2026.
 
-1. Y. Peng, **Z. Peng**, J. Jiang, and J. Lin, "Advancing Aluminium Alloy Arc Welding with a Data-centric and Explainable Intelligent Modelling Framework", in _Proc. of the 15th Asian Workshop on Micro/Nano Forming Technology and the 5th Asian Pacific Symposium on Technology of Plasticity (**AWMFT/APSTP '25**)_, Taiwan, China, 2025.
-
 1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "[A Survey on Deep Learning Fundamentals](https://link.springer.com/article/10.1007/s10462-025-11368-7)", _Artificial Intelligence Review_, August 2025.
 
 1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "[A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication](https://dl.acm.org/doi/10.1145/3770916)", _ACM Computing Surveys (**CSUR**)_, July 2025.
@@ -46,6 +44,8 @@ layout: archive
 1. Q. Han, J. Deng, S. Huang, Y. Li, G. Li, S. Jiang, and **Z. Peng**, "[Adversarial Graph Perturbation for Smart Contract Vulnerability Detection](https://ieeexplore.ieee.org/document/11194994)", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
 
 1. Z. Xu, G. Li, **Z. Peng**, and A. Hu, "[Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting](https://ieeexplore.ieee.org/document/11194949)", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025. (**Best Paper Award Runner-up**)
+
+1. Y. Peng, **Z. Peng**, J. Jiang, and J. Lin, "[Advancing Aluminium Alloy Arc Welding with a Data-centric and Explainable Intelligent Modelling Framework](https://sites.google.com/view/taiwantstp/symposium/awmft-2025-and-apstp-2025/program?authuser=0)", in _Proc. of the 15th Asian Workshop on Micro/Nano Forming Technology and the 5th Asian Pacific Symposium on Technology of Plasticity (**AWMFT/APSTP '25**)_, Taiwan, China, 2025.
 
 1. **Z. Peng**, J. Deng, S. Gao, H. Cui, and B. Xiao, "[vDID: Blockchain-Enabled Verifiable Decentralized Identity Management for Web 3.0](https://ieeexplore.ieee.org/abstract/document/10682610)", in _Proc. of the IEEE/ACM International Symposium on Quality of Service (**IWQoS '24**)_, Guangzhou, China, 2024.
 
