@@ -21,7 +21,7 @@ layout: archive
   * Autonomous systems
 
 * **Ruoyao Tian** (ZJU), 2026 - Present
-  * Physics-informed interpretable AI
+  * Physics-constrained interpretable AI
 
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM for aerodynamics design
