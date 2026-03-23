@@ -3,33 +3,33 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026.
+1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 9.2)
 
 1. Z. Wang, X. Cai, S. Gao, **Z. Peng**, and B. Xiao, "R.S.D: A Regulatory Anonymity System with Decentralized Identity", in _Proc. of the IEEE International Conference on Communications (**ICC '26**)_, Glasgow, Scotland, UK, 2026.
 
 1. Z. Liang, B. Chen, L. Ye, C. Sun, S. Wang, and **Z. Peng**, "A study of the spectrum resource leasing method based on ERC4907 extension", in _Proc. of the International Conference on Computer and Communication Systems (**ICCCS '26**)_, Wuhan, China, 2026.
 
-1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "[A Survey on Deep Learning Fundamentals](https://link.springer.com/article/10.1007/s10462-025-11368-7)", _Artificial Intelligence Review_, August 2025.
+1. C. Tian, T. Cheng, **Z. Peng**, W. Zuo, Y. Tian, Q. Zhang, F.-Y. Wang, D. Zhang, "[A Survey on Deep Learning Fundamentals](https://link.springer.com/article/10.1007/s10462-025-11368-7)", _Artificial Intelligence Review_, August 2025. (IF: 13.9)
 
-1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "[A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication](https://dl.acm.org/doi/10.1145/3770916)", _ACM Computing Surveys (**CSUR**)_, July 2025.
+1. J. Deng, C. Lin, Z. Zhao, S. Liu, **Z. Peng**, Q. Wang, and C. Shen, "[A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication](https://dl.acm.org/doi/10.1145/3770916)", _ACM Computing Surveys (**CSUR**)_, July 2025. (IF: 28)
 
-1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "[SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems](https://www.sciencedirect.com/science/article/pii/S0140366425002403)", _Computer Communications_, vol. 242, pp. 108283, July 2025. 
+1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "[SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems](https://www.sciencedirect.com/science/article/pii/S0140366425002403)", _Computer Communications_, vol. 242, pp. 108283, July 2025. (IF: 4.3)
 
-1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 12, No. 16, pp. 32366-32378, June 2025.
+1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 12, No. 16, pp. 32366-32378, June 2025. (IF: 8.9)
 
-1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, Vol. 37, No. 7, pp. 4299-4313, April 2025.
+1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, Vol. 37, No. 7, pp. 4299-4313, April 2025. (IF: 10.4)
 
-1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 36, No. 6, pp. 1058-1070, March 2025.
+1. Y. Yao, Y. Hu, Y. Dang, W. Tao, K. Hu, Q. Huang, **Z. Peng**, G. Yang, and X. Zhou, "[Workload-Aware Performance Model Based Soft Preemptive Real-Time Scheduling for Neural Processing Units](https://ieeexplore.ieee.org/document/10942549)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 36, No. 6, pp. 1058-1070, March 2025. (IF: 6.0)
 
-1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 22, No. 4, pp. 3751-3765, February 2025. 
+1. H. Wu, **Z. Peng**, J. Xiao, L. Xue, C. Lin, S.-H. Chung, "[HeX: Encrypted Rich Queries with Forward and Backward Privacy Using Trusted Hardware](https://ieeexplore.ieee.org/document/10882945)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 22, No. 4, pp. 3751-3765, February 2025.  (IF: 7.5)
 
-1. Y. Li, Y. Lu, X. Yang, and **Z. Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, vol. 232, pp. 108037, February 2025.
+1. Y. Li, Y. Lu, X. Yang, and **Z. Peng**, "[Blockchain-Empowered Multi-skilled Crowdsourcing for Mobile Web 3.0](https://doi.org/10.1016/j.comcom.2024.108037)", _Computer Communications_, vol. 232, pp. 108037, February 2025. (IF: 4.3)
 
-1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, Vol. 133, pp. 3312-3326, January 2025.
+1. Q. Yang, Z. Chen, **Z. Peng**, and Y. Yuan, "[Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning](https://link.springer.com/article/10.1007/s11263-024-02330-1)", _International Journal of Computer Vision (**IJCV**)_, Vol. 133, pp. 3312-3326, January 2025. (IF: 9.3)
 
 1. S. Hou, F. Lin, Y. Huang, **Z. Peng**, and B. Xiao, "[Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation](https://www.jstage.jst.go.jp/article/iis/31/1/31_2025.A.04/_article/-char/en)", _Interdisciplinary Information Sciences_, Vol. 31, No. 1, pp. 41-51, January 2025.
 
-1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025.
+1. C. Lin, X. Ji, Y. Yang, Q. Li, Z. Zhao, **Z. Peng**, R. Wang, L. Fang, and C. Shen, "[Hard Adversarial Example Mining for Improving Robust Fairness](https://ieeexplore.ieee.org/document/10795188)", _IEEE Transactions on Information Forensics and Security (**TIFS**)_, Vol. 20, pp. 350-363, 2025. (IF: 8.0)
 
 1. Q. Ma, P. Liang, X. Zhou, J. Ma, J. Jiang, and **Z. Peng**, "[Robust Test-Time Adaptation for Single Image Denoising Using Deep Gaussian Prior](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_Robust_Test-Time_Adaptation_for_Single_Image_Denoising_Using_Deep_Gaussian_ICCV_2025_paper.html)", in _Proc. of the IEEE/CVF International Conference on Computer Vision (**ICCV '25**)_, Honolulu, Hawai'i, USA, 2025.
 
@@ -55,49 +55,49 @@ layout: archive
 
 1. C. Qiu, J. Deng, T. Peng, and **Z. Peng**, "[Blockchain-based Verifiable Decentralized Identities for Cyber-Physical Web 3.0](https://ieeexplore.ieee.org/document/10919784)", in _Proc. of the IEEE International Conference on Automation in Manufacturing, Transportation and Logistics (**ICaMaL '24**)_, Hong Kong, China, 2024.
 
-1. Y. Teng, C.Z. Li, Geoffrey Q.P. Shen, Q. Yang, and **Z. Peng**, "[The Impact of Life Cycle Assessment Database Selection on Embodied Carbon Estimation of Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323006753)", _Building and Environment_, Vol. 243, pp. 110648, September 2023.
+1. Y. Teng, C.Z. Li, Geoffrey Q.P. Shen, Q. Yang, and **Z. Peng**, "[The Impact of Life Cycle Assessment Database Selection on Embodied Carbon Estimation of Buildings](https://www.sciencedirect.com/science/article/pii/S0360132323006753)", _Building and Environment_, Vol. 243, pp. 110648, September 2023. (IF: 7.6)
 
-1. S. Gao, **Z. Peng**, F. Tan, Y. Zheng, and B. Xiao, "[SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions](https://ieeexplore.ieee.org/document/9786741)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 20, No. 3, pp. 2289-2301, May 2023. 
+1. S. Gao, **Z. Peng**, F. Tan, Y. Zheng, and B. Xiao, "[SymmeProof: Compact Zero-Knowledge Argument for Blockchain Confidential Transactions](https://ieeexplore.ieee.org/document/9786741)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, Vol. 20, No. 3, pp. 2289-2301, May 2023. (IF: 7.5)
 
-1. Z. Chen, C. Yang, M. Zhu, **Z. Peng**, and Y. Yuan, "[Personalized Retrogress-Resilient Federated Learning towards Imbalanced Medical Data](https://ieeexplore.ieee.org/document/9832948)", _IEEE Transactions on Medical Imaging (**TMI**)_, Vol. 41, No. 12, pp. 3663 – 3674, December 2022.
+1. Z. Chen, C. Yang, M. Zhu, **Z. Peng**, and Y. Yuan, "[Personalized Retrogress-Resilient Federated Learning towards Imbalanced Medical Data](https://ieeexplore.ieee.org/document/9832948)", _IEEE Transactions on Medical Imaging (**TMI**)_, Vol. 41, No. 12, pp. 3663 – 3674, December 2022. (IF: 9.8)
 
 1. **Z. Peng**, J. Xu, H. Hu, and L. Chen, "[BlockShare: A Blockchain Empowered System for Privacy-Preserving Verifiable Data Sharing](http://sites.computer.org/debull/A22june/p14.pdf)", _IEEE Data Engineering Bulletin_, June 2022.
 
-1. H. Wu, **Z. Peng**, S. Guo, Y. Yang, and B. Xiao, "[VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems](https://ieeexplore.ieee.org/document/9541060)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 33, No. 6, pp. 1393-1406, June 2022.
+1. H. Wu, **Z. Peng**, S. Guo, Y. Yang, and B. Xiao, "[VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems](https://ieeexplore.ieee.org/document/9541060)", _IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, Vol. 33, No. 6, pp. 1393-1406, June 2022. (IF: 6.0)
 
-1. **Z. Peng**, J. Xu, X. Chu, S. Gao, Y. Yao, R. Gu, and Y. Tang, "[VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems](https://ieeexplore.ieee.org/document/9321132)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 9, No. 1, pp. 173-186, January 2022. (**ESI Highly Cited Paper**)
+1. **Z. Peng**, J. Xu, X. Chu, S. Gao, Y. Yao, R. Gu, and Y. Tang, "[VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems](https://ieeexplore.ieee.org/document/9321132)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 9, No. 1, pp. 173-186, January 2022. (IF: 7.9, **ESI Highly Cited Paper**)
 
 1. **Z. Peng**, S. Hou, and Y. Yuan, "[EPAR: An Efficient and Privacy-Aware Augmented Reality Framework for Indoor Location-Based Services](https://ieeexplore.ieee.org/document/9981149)", in _Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS '22**)_, Kyoto, Japan, 2022.
 
 1. H. Wang, C. Xu, C. Zhang, J. Xu, **Z. Peng**, and J. Pei, "[vChain+: Optimizing Verifiable Blockchain Boolean Range Queries](https://ieeexplore.ieee.org/document/9835165)", in _Proc. of the IEEE International Conference on Data Engineering (**ICDE '22**)_, Kuala Lumpur, Malaysia, 2022.
 
-1. Z. Li, S. Gao, **Z. Peng**, B. Xiao, S. Guo, and Y. Yang, "[B-DNS: A Secure and Efficient DNS Based on the Blockchain Technology](https://ieeexplore.ieee.org/document/9387163)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 8, No. 2, pp. 1674-1686, April 2021.
+1. Z. Li, S. Gao, **Z. Peng**, B. Xiao, S. Guo, and Y. Yang, "[B-DNS: A Secure and Efficient DNS Based on the Blockchain Technology](https://ieeexplore.ieee.org/document/9387163)", _IEEE Transactions on Network Science and Engineering (**TNSE**)_, Vol. 8, No. 2, pp. 1674-1686, April 2021. (IF: 7.9)
 
 1. **Z. Peng**, C. Xu, H. Wang, J. Huang, J. Xu, and X. Chu, "[P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics](https://dl.acm.org/doi/abs/10.1145/3448016.3459237)", in _Proc. of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '21**)_, Xi'an, Shaanxi, China, 2021.
 
 1. **Z. Peng**, J. Huang, H. Wang, S. Wang, X. Chu, X. Zhang, L. Chen, X. Huang, X. Fu, Y. Guo, and J. Xu, "[BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing](https://link.springer.com/chapter/10.1007/978-3-030-73216-5_26)", in _Proc. of the International Conference on Database Systems for Advanced Applications (**DASFAA '21**) Workshops_, 2021. (**Best Paper Award**)
 
-1. Y. Yao, B. Xiao, W. Wang, G. Yang, X. Zhou, and **Z. Peng**, "[Real-Time Cache-Aided Route Planning based on Mobile Edge Computing](https://ieeexplore.ieee.org/document/9183790)", _IEEE Wireless Communications_, Vol. 27, No. 5, pp. 155-161, October 2020.
+1. Y. Yao, B. Xiao, W. Wang, G. Yang, X. Zhou, and **Z. Peng**, "[Real-Time Cache-Aided Route Planning based on Mobile Edge Computing](https://ieeexplore.ieee.org/document/9183790)", _IEEE Wireless Communications_, Vol. 27, No. 5, pp. 155-161, October 2020. (IF: 11.5)
 
-1. S. Gao, **Z. Peng**, B. Xiao, A. Hu, Y. Song, and K. Ren, "[Detection and Mitigation of DoS Attacks in Software Defined Networks](https://ieeexplore.ieee.org/document/9068479)", _IEEE/ACM Transactions on Networking (**ToN**)_, Vol. 28, No. 3, pp. 1419-1433, June 2020. 
+1. S. Gao, **Z. Peng**, B. Xiao, A. Hu, Y. Song, and K. Ren, "[Detection and Mitigation of DoS Attacks in Software Defined Networks](https://ieeexplore.ieee.org/document/9068479)", _IEEE/ACM Transactions on Networking (**ToN**)_, Vol. 28, No. 3, pp. 1419-1433, June 2020. (IF: 3.6)
 
-1. **Z. Peng**, Y. Yao, B. Xiao, S. Guo, and Y. Yang, "[When Urban Safety Index Inference Meets Location-based Data](https://ieeexplore.ieee.org/document/8526338)", _IEEE Transactions on Mobile Computing (**TMC**)_, Vol. 18, No. 11, pp. 2701-2713, November 2019. 
+1. **Z. Peng**, Y. Yao, B. Xiao, S. Guo, and Y. Yang, "[When Urban Safety Index Inference Meets Location-based Data](https://ieeexplore.ieee.org/document/8526338)", _IEEE Transactions on Mobile Computing (**TMC**)_, Vol. 18, No. 11, pp. 2701-2713, November 2019. (IF: 9.2)
 
 1. **Z. Peng**, H. Wu, B. Xiao, and S. Guo, "[VQL: Providing Query Efficiency and Data Authenticity in Blockchain Systems](https://ieeexplore.ieee.org/document/8750921)", in _Proc. of the IEEE International Conference on Data Engineering (**ICDE '19**)_, Macau, China, 2019.
 
 1. S. Gao, Z. Li, **Z. Peng**, and B. Xiao, "[Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System](https://dl.acm.org/doi/10.1145/3319535.3354203)", in _Proc. of the ACM SIGSAC Conference on Computer and Communications Security (**CCS '19**)_, London, UK, 2019. 
 
-1. **Z. Peng**, S. Gao, B. Xiao, G. Wei, S. Guo, and Y. Yang, "[Indoor Floor Plan Construction through Sensing Data Collected from Smartphones](https://ieeexplore.ieee.org/document/8428421)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 5, No. 6, pp. 4351-4364, December 2018. 
+1. **Z. Peng**, S. Gao, B. Xiao, G. Wei, S. Guo, and Y. Yang, "[Indoor Floor Plan Construction through Sensing Data Collected from Smartphones](https://ieeexplore.ieee.org/document/8428421)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 5, No. 6, pp. 4351-4364, December 2018. (IF: 8.9)
 
-1. Y. Yao, **Z. Peng**, and B. Xiao, "[Parallel Hyper-Heuristic Algorithm for Multi-objective Route Planning in a Smart City](https://ieeexplore.ieee.org/document/8456612)", _IEEE Transactions on Vehicular Technology (**TVT**)_, Vol. 67, No. 11, pp. 10307-10318, November 2018. 
+1. Y. Yao, **Z. Peng**, and B. Xiao, "[Parallel Hyper-Heuristic Algorithm for Multi-objective Route Planning in a Smart City](https://ieeexplore.ieee.org/document/8456612)", _IEEE Transactions on Vehicular Technology (**TVT**)_, Vol. 67, No. 11, pp. 10307-10318, November 2018. (IF: 7.1)
 
-1. **Z. Peng**, S. Gao, Z. Li, B. Xiao, and Y. Qian, "[Vehicle Safety Improvement through Deep Learning and Mobile Sensing](https://ieeexplore.ieee.org/document/8425297)", _IEEE Network_, Vol. 32, No. 4, pp. 28-33, July 2018. 
+1. **Z. Peng**, S. Gao, Z. Li, B. Xiao, and Y. Qian, "[Vehicle Safety Improvement through Deep Learning and Mobile Sensing](https://ieeexplore.ieee.org/document/8425297)", _IEEE Network_, Vol. 32, No. 4, pp. 28-33, July 2018. (IF: 6.3)
 
-1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**T-ASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. 
+1. **Z. Peng**, S. Gao, B. Xiao, S. Guo, and Y. Yang, "[CrowdGIS: Updating Digital Maps via Mobile Crowdsensing](https://ieeexplore.ieee.org/document/8094940)", _IEEE Transactions on Automation Science and Engineering (**T-ASE**)_, Vol. 15, No. 1, pp. 369-380, January 2018. (IF: 6.4)
 
 1. J. Li, **Z. Peng**, and B. Xiao, "[New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency](https://ieeexplore.ieee.org/document/8422390)", in _Proc. of the IEEE International Conference on Communications (**ICC '18**)_, Kansas City, MO, USA, 2018.
 
-1. J. Li, **Z. Peng**, S. Gao, B. Xiao, and H. Chan, "[Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices](https://www.sciencedirect.com/science/article/pii/S0140366416303012?via%3Dihub)", _Computer Communications_, Vol. 105, pp. 33-43, June 2017.
+1. J. Li, **Z. Peng**, S. Gao, B. Xiao, and H. Chan, "[Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices](https://www.sciencedirect.com/science/article/pii/S0140366416303012?via%3Dihub)", _Computer Communications_, Vol. 105, pp. 33-43, June 2017. (IF: 4.3)
 
 1. S. Gao, **Z. Peng**, B. Xiao, A. Hu, and K. Ren, "[FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks](https://ieeexplore.ieee.org/document/8057009)", in _Proc. of the IEEE International Conference on Computer Communications (**INFOCOM '17**)_, Atlanta, GA, USA, 2017.
 

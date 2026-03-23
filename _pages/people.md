@@ -15,10 +15,16 @@ layout: archive
   * Decentralized identity (DID) for Web3
 
 * **Shichang Huang** (BJTU), 2025 - Present
-  * Knowledge-Enhanced deep learning for metal-forming processes design
+  * Knowledge-Enhanced graph learning for metal-forming processes design
 
 * **Wenqi Zhang** (Visiting PhD Student from NPU), 2025 - Present
   * Autonomous systems
+
+* **Ruoyao Tian** (ZJU), 2026 - Present
+  * Physics-informed interpretable AI for metal forming
+
+* **Tianyi Sun** (SDU), 2026 - Present
+  * LLM for aerodynamics design
 
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
