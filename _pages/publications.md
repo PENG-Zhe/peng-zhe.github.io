@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 9.2)
+1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications](https://ieeexplore.ieee.org/abstract/document/11434985)", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 9.2)
 
 1. Z. Wang, X. Cai, S. Gao, **Z. Peng**, and B. Xiao, "R.S.D: A Regulatory Anonymity System with Decentralized Identity", in _Proc. of the IEEE International Conference on Communications (**ICC '26**)_, Glasgow, Scotland, UK, 2026.
 
