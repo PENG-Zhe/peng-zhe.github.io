@@ -26,6 +26,9 @@ layout: archive
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM for aerodynamics design
 
+* **Zetian Sun** (Dual PhD Student with NPU), 2026 - Present
+  * Unmanned Aerial/Marine Vehicles (UAV/UMV) 
+
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
 
