@@ -21,13 +21,16 @@ layout: archive
   * Autonomous systems
 
 * **Ruoyao Tian** (ZJU), 2026 - Present
-  * Physics-constrained interpretable AI
+  * Physics-informed interpretable AI
+
+* **Nan Ye** (ZJU), 2026 - Present
+  * AI-driven in situ measurements for ultra-precision machining
 
 * **Tianyi Sun** (SDU), 2026 - Present
-  * LLM for aerodynamics design
+  * LLM-assisted aerodynamics design
 
 * **Zetian Sun** (Dual PhD Student with NPU), 2026 - Present
-  * Unmanned Aerial/Marine Vehicles (UAV/UMV) 
+  * UAV/UMV swarm intelligence
 
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
@@ -37,6 +40,7 @@ layout: archive
   * Multimodal AI for quality evaluation
 
 <!--
+  * Physics-constrained
   * Physics-informed reinforcement learning for metal-forming processes design
   * Agentic AI-assisted Production Scheduling
   * Harnessing Multimodal AI for Knowledge-Enhanced Computational Pathology
