@@ -6,7 +6,7 @@ layout: archive
 
 ## Postdoctoral Fellows
 * **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - Present
-  * Blockchain, Network resource management, Network security and privacy
+  * Blockchain, network resource management, data security and privacy, SAGIN
 
 
 ## PhD Students
@@ -34,6 +34,7 @@ layout: archive
 
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
+
 
 ## Research Assistants
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
