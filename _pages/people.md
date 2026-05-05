@@ -54,7 +54,7 @@ layout: archive
 
 <!--
 ## Former Members
-* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc Fellow, PhD PolyU, 2024-2025), First Employment: 
-* **[Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (Postdoc Fellow, PhD CAS, 2024-2025), First Employment: 
-* **[Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (Postdoc Fellow, PhD HIT, 2024-2025), Current Employment: 
+* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc Fellow, 2024-2025), First Employment: 
+* **[Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (Postdoc Fellow, 2024-2025), First Employment: 
+* **[Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (Postdoc Fellow, 2024-2025), Current Employment: 
 -->
