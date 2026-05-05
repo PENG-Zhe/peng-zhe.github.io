@@ -24,7 +24,7 @@ layout: archive
   * Physics-informed interpretable AI
 
 * **Nan Ye** (ZJU), 2026 - Present
-  * AI-driven in situ measurements for ultra-precision machining
+  * AI-driven in situ measurement for ultra-precision machining
 
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM-assisted aerodynamics design
@@ -54,6 +54,7 @@ layout: archive
 
 <!--
 ## Former Members
+* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc Fellow, PhD PolyU, 2024-2025), First Employment: 
 * **[Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (Postdoc Fellow, PhD CAS, 2024-2025), First Employment: 
 * **[Qing Ma](https://scholar.google.com/citations?user=x6QQGQkAAAAJ&hl=en)** (Postdoc Fellow, PhD HIT, 2024-2025), Current Employment: 
 -->
