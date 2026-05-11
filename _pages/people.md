@@ -8,6 +8,15 @@ layout: archive
 * **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - Present
   * Blockchain, network resource management, data security and privacy, SAGIN
 
+* **[Dr. Wenhao Li](https://wenh-li.github.io/)** (HKCityU), 2026 - Present
+  * Security and privacy of IoT systems, wireless sensing, and side-channel analysis
+
+* **Dr. Shengdong Wang** (NPU), 2026 - Present
+  * Aviation data analysis, fault diagnosis
+
+* **Dr. Xuefei Cui** (SDU), 2026 - Present
+  * Data-driven additive manufacturing, multiphysics field coupling modeling
+
 
 ## PhD Students
 <!--## PhD/MPhil Students-->
