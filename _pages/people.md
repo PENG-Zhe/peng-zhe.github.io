@@ -49,6 +49,9 @@ layout: archive
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
   * Multimodal AI for quality evaluation
 
+* **Bohan Zhaang** (UESTC), 2026 - Present
+  *  AI-enabled supply chain optimization
+
 <!--
   * Physics-constrained
   * Physics-informed reinforcement learning for metal-forming processes design
