@@ -49,7 +49,7 @@ layout: archive
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
   * Multimodal AI for quality evaluation
 
-* **Bohan Zhaang** (UESTC), 2026 - Present
+* **Bohan Zhaang** (Exchange Research Student from UESTC), 2026 - Present
   *  AI-enabled supply chain optimization
 
 <!--
