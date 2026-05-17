@@ -1,5 +1,5 @@
 ---
-title: "Industrial Intelligence and Systems (IIS) Group"
+title: "<img src='/images/IIS_Logo.png'> Industrial Intelligence and Systems (IIS) Group"
 permalink: /people/
 layout: archive
 ---
