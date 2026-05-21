@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
+1. J. Deng, **Z. Peng**, C. Zhang, S. Gu, X. Xie, and B. Xiao, "vProChain: Efficient Provenance Verification in Industrial Internet of Things (IIoT)", _IEEE Internet of Things Journal (**IoTJ**)_, 2026. (IF: 8.9)
+
 1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications](https://ieeexplore.ieee.org/abstract/document/11434985)", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 9.2)
 
 1. B. Zhang, H. Cui, **Z. Peng**, Y. Hua, Z. Yu, and B. Guo, "ObliMIG: Enabling Data Migration on Oblivious Storage without Interruption", in _Proc. of the IEEE International Conference on Distributed Computing Systems (**ICDCS '26**)_, Seoul, South Korea, 2026.
