@@ -9,7 +9,7 @@ layout: archive
 
 ## Committee Member
 * Technical Committee on Blockchain, China Computer Federation (CCF), 2025 - 
-* Technical Committee on Digital Manufacturing and Human-centered Automation, IEEE, 2024 -
+* Technical Committee on Digital Manufacturing and Human-Centered Automation, IEEE, 2023 -
 
 ## Journal Editorship
 * Associate Editor, IET Blockchain, 2022 - 
