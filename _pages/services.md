@@ -4,7 +4,7 @@ permalink: /services/
 layout: archive
 ---
 
-## Department Services
+## Department Service
 * Deputy Programme Leader, MSc in Information Systems, 2026 - 
 
 ## Committee Member
