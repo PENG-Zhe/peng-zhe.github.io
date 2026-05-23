@@ -4,6 +4,9 @@ permalink: /services/
 layout: archive
 ---
 
+## Department Services
+* Deputy Programme Leader, MSc in Information Systems, 2026 - 
+
 ## Committee Member
 * Technical Committee on Blockchain, China Computer Federation (CCF), 2025 - 
 
