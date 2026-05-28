@@ -26,9 +26,6 @@ layout: archive
 * **Shichang Huang** (BJTU), 2025 - Present
   * Knowledge-Enhanced graph learning for metal-forming processes design
 
-* **Wenqi Zhang** (Visiting PhD Student from NPU), 2025 - Present
-  * Autonomous systems
-
 * **Ruoyao Tian** (ZJU), 2026 - Present
   * Physics-informed interpretable AI
 
@@ -39,7 +36,7 @@ layout: archive
   * LLM-assisted aerodynamics design
 
 * **Zetian Sun** (Dual PhD Student with NPU), 2026 - Present
-  * UAV/UMV swarm intelligence
+  * Autonomous systems
 
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
@@ -61,11 +58,13 @@ layout: archive
 
   * Autonomous planning and decision making
   * Reinforcement learning for autonomous systems
+  * UAV swarm intelligence
 -->
 
+## Former Members
+* **Wenqi Zhang** (Visiting Student from NPU, 2025 - 2026)
 
 <!--
-## Former Members
 * **[Xin Xie](https://xiexincn.github.io/)** (Postdoc Fellow, 2024-2025), First Employment: Professor, College of Intelligence and Computing, Tianjin University
 * **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc Fellow, 2024-2025), First Employment: 
 * **[Shikun Li](https://imsg.ac.cn/people/lishikun.html)** (Postdoc Fellow, 2024-2025), First Employment: 
