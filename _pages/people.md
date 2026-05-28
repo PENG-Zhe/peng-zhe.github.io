@@ -61,6 +61,7 @@ layout: archive
   * UAV swarm intelligence
 -->
 
+
 ## Visiting Scholar
 * **[Xin Xie](https://xiexincn.github.io/)** (2025 - Present)
   * Professor, School of Computer Science and Technology, Tianjin University
@@ -68,7 +69,7 @@ layout: archive
 
 ## Former Members
 * **Wenqi Zhang** (Visiting Student from NPU, 2025 - 2026)
-* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc Fellow, 2024-2025), First Employment: Associate Professor, School of Cyber Science and Engineering, Southeast University
+* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc, 2024-2025), First Employment: Associate Professor, School of Cyber Science and Engineering, Southeast University
 
 
 <!--
