@@ -62,7 +62,7 @@ layout: archive
 -->
 
 ## Visiting Scholar
-* **[Xin Xie](https://xiexincn.github.io/)**, 2025 - Present
+* **[Xin Xie](https://xiexincn.github.io/)** (2025 - Present)
   * Professor, School of Computer Science and Technology, Tianjin University
 
 
