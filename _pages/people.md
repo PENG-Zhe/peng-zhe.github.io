@@ -18,7 +18,7 @@ layout: archive
   * Data-driven additive manufacturing, multiphysics field coupling modeling
 
 
-## PhD Students
+## Ph.D. Students
 <!--## PhD/MPhil Students-->
 * **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
   * Decentralized identity (DID) for Web3
@@ -62,7 +62,7 @@ layout: archive
 -->
 
 ## Visiting Scholar
-* **[Xin Xie](https://xiexincn.github.io/)** (2025 - ), Professor, School of Computer Science and Technology, Tianjin University
+* **[Xin Xie](https://xiexincn.github.io/)** (2025 - Present), Professor, School of Computer Science and Technology, Tianjin University
 
 
 ## Former Members
