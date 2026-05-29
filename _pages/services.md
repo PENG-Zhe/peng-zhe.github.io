@@ -8,8 +8,8 @@ layout: archive
 * Deputy Programme Leader, MSc in Information Systems, 2026 - 
 
 ## Committee Member
-* Technical Committee on Blockchain, China Computer Federation (CCF), 2025 - 
-* Technical Committee on Digital Manufacturing and Human-Centered Automation, IEEE, 2023 -
+* CCF Technical Committee on Blockchain, 2025 - 
+* IEEE Technical Committee on Digital Manufacturing and Human-Centered Automation, 2023 -
 
 ## Journal Editorship
 * Associate Editor, IET Blockchain, 2022 - 
