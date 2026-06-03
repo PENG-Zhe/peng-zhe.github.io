@@ -35,7 +35,7 @@ layout: archive
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM-assisted aerodynamics design
 
-* **Zetian Sun** (Dual PhD Student with NPU), 2026 - Present
+* **Zetian Sun** (Dual PhD student with NPU), 2026 - Present
   * Autonomous systems
 
 * **Qi Han** (MPhil), 2025 - Present
@@ -46,7 +46,7 @@ layout: archive
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
   * Multimodal AI for quality evaluation
 
-* **Bohan Zhang** (Exchange Research Student from UESTC), 2026 - Present
+* **Bohan Zhang** (Exchange research student from UESTC), 2026 - Present
   *  AI-enabled supply chain optimization
 
 <!--
@@ -68,7 +68,7 @@ layout: archive
 
 
 ## Former Members
-* **Wenqi Zhang** (Visiting Student from NPU, 2025 - 2026)
+* **Wenqi Zhang** (Visiting PhD student from NPU, 2025 - 2026)
 * **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc, 2024-2025), First Employment: Associate Professor, School of Cyber Science and Engineering, Southeast University
 
 
