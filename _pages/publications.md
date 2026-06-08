@@ -45,7 +45,7 @@ layout: archive
 
 1. S. Gao, T. Zheng, Y. Guo, **Z. Peng**, and B. Xiao, "[Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions](https://link.springer.com/chapter/10.1007/978-3-031-91832-2_5)", in _Proc. of the IACR Public Key Cryptography (**PKC '25**)_, Røros, Norway, 2025.
 
-1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security", in _Prof. of the International Conference on Blockchain Research and Applications (**BCRA '25**)_, Hong Kong, China, 2025. (**Best Workshop Paper Award**)
+1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "[Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security](https://bcra-conf.github.io/2025/program/full-program/)", in _Prof. of the International Conference on Blockchain Research and Applications (**BCRA '25**)_, Hong Kong, China, 2025. (**Best Workshop Paper Award**)
 
 1. Q. Han, J. Deng, S. Huang, Y. Li, G. Li, S. Jiang, and **Z. Peng**, "[Adversarial Graph Perturbation for Smart Contract Vulnerability Detection](https://ieeexplore.ieee.org/document/11194994)", in _Proc. of the IEEE Conference on Communications and Network Security (**CNS '25**)_, Avignon, France, 2025.
 
