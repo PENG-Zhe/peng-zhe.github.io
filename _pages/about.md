@@ -19,7 +19,7 @@ Dr. Peng is currently an Assistant Professor at the [Department of Industrial an
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University, the M.Phil. degree in Electronic Engineering and Information Science from University of Science and Technology of China, and the B.Eng. degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University.
 
-His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious conferences and journals, such as ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/ICCV/IROS, ACL, IEEE TKDE/TMC/ToN/TPDS/TDSC/TIFS, IJCV, etc. 
+His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious conferences and journals, such as ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/ICCV/IROS, ACL, IEEE TKDE/TMC/TPDS/TDSC/TIFS, IJCV, etc. 
 
 He has been recognized among the World’s Top 2% Scientists by Stanford University for consecutive years since 2024, and received several premium awards, such as five Best Paper Awards from first-tier conferences and IEEE Outstanding Service Award 2025.
 
