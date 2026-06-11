@@ -25,7 +25,7 @@ He has been recognized among the World’s Top 2% Scientists by Stanford Univers
 
 
 # Openings
-We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in **(i) Blockchain and Web3**, and **(ii) AI for Materials and Manufacturing**. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
+We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in **(i) Blockchain and Web3**, and **(ii) AI for Materials Manufacturing**. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
 
 Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/){:target="_blank"} or dissertation supervision are also welcome. 
 
