@@ -33,17 +33,17 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
-- [May 2026] Our paper on Privacy-preserving Decentralized Identity has received the Best Paper Award at IEEE ICC 2026.🎖️🏆<br>
+- [May 2026] Our paper on Privacy-preserving Decentralized Identity has received the Best Paper Award at IEEE ICC 2026.🏆<br>
 Our paper ObliMIG on Oblivious Storage for Online Data Migration has been accepted by ICDCS 2026. <br>
 Our paper vProChain on Blockchain-based Provenance Verification in IIoT has been accepted by IEEE IoTJ.
 - [Apr. 2026] Our paper LearnAlign on LLM Reinforcement Learning has been accepted by ACL 2026.
 - [Feb. 2026] Our paper CLBP on 6G-based V2V Communications has been accepted by IEEE TMC.
 - [Dec. 2025] I am elected to join the CCF Technical Committee on Blockchain.
-- [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.🎖️🏆
+- [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.🏆
 - [Oct. 2025] I am serving as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
 - [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
-- [Aug. 2025] Our paper on Hexapod Robot Contorl has received the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang!🎖️🏆 <br>
-Our paper on Blockchain-based DID Management has received the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng!🎖️🏆 <br>
+- [Aug. 2025] Our paper on Hexapod Robot Contorl has received the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang!🏆 <br>
+Our paper on Blockchain-based DID Management has received the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng!🏆 <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
 - [Jul. 2025] Our paper on Defenses against AI-generated Visual Media has been accepted by ACM CSUR. <br>
 Our paper on Deep Reinforcement Learning for Task Allocation has been accepted by Computer Communications.
@@ -74,7 +74,7 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions has 
 - [2022-08] Our paper <a href="http://sites.computer.org/debull/A22june/p14.pdf" target="_blank">BlockShare</a> on Blockchain Data Sharing was accepted by IEEE Data Engineering Bulletin.
 - [2022-06] Our paper <a href="https://ieeexplore.ieee.org/document/9981149" target="_blank">EPAR</a> on Augmented Reality was accepted by IROS 2022.
 - [2022-01] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was selected as a popular article by IEEE TNSE.
-- [2021-04] Won Best Paper Award at DASFAA 2021.🎖️
+- [2021-04] Won Best Paper Award at DASFAA 2021.🏆
 - [2021-03] Our paper on Privacy-Preserving Blockchain Data Verification was accepted by SIGMOD 2021.
 - [2021-01] Our paper on Digital Contact Tracing was accepted by DASFAA 2021.
 - [2020-12] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was accepted by IEEE TNSE.
