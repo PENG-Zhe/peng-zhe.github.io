@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
+1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security", _Blockchain: Research and Applications_, 2026. (IF: 5.6)
+
 1. J. Deng, **Z. Peng**, C. Zhang, S. Gu, X. Xie, and B. Xiao, "[vProChain: Efficient Provenance Verification in Industrial Internet of Things (IIoT)](https://ieeexplore.ieee.org/document/11534176)", _IEEE Internet of Things Journal (**IoTJ**)_, May 2026. (IF: 8.9)
 
 1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications](https://ieeexplore.ieee.org/abstract/document/11434985)", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 9.2)
