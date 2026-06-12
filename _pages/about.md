@@ -57,16 +57,16 @@ Our paper on Multi-skilled Crowdsourcing for Mobile Web 3.0 has been accepted by
 Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions has been accepted by IACR PKC 2025.
 - [Jan. 2025] Our paper <a href="https://link.springer.com/article/10.1007/s11263-024-02330-1" target="_blank">FedRVR</a> on Federated Semi-Supervised Learning has been accepted by IJCV.
 - [Dec. 2024] Our paper <a href="https://ieeexplore.ieee.org/document/10795188" target="_blank">HAM</a> on Adversarial Training for AI Security has been accepted by IEEE TIFS.
+- ...
 
-
-<div style="display:none">
+<!--
 - [Nov. 2024] Welcome Dr Shikun Li join in our group!
-- [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
+- [Sep. 2024] I am ranked among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.🎖️
 - [Aug. 2024] Welcome Dr Qing Ma, Jiamin Deng, and Yihao Zheng join in our group!
 - [May 2024] Two papers are accepted by IEEE/ACM IWQoS 2024.
 - [Mar. 2024] One paper is accepted by IEEE ICaMaL 2024.
 - [Jan. 2024] I am invited to serve as a Guest Editor for Computer Communications special issue on <a href="https://www.sciencedirect.com/journal/computer-communications/about/call-for-papers" target="_blank">Smart Blockchain Network Empowered Metaverse and Web 3.0</a>. Welcome submissions!
-- [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.
+- [2023-11] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was recognized as an ESI Highly Cited Paper.🎖️
 - [2023-09] Serving as a Guest Editor for Big Data and Cognitive Computing special issue on <a href="https://www.mdpi.com/journal/BDCC/special_issues/9A8E7A0B22" target="_blank">Data Security and Privacy in Blockchain-Based Decentralized Applications</a>. Welcome submissions!
 - [2023-06] I joined the department of ISE at PolyU as a Research Assistant Professor.
 - [2023-03] Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions was accepted by IEEE TDSC.
@@ -74,14 +74,12 @@ Our paper on Zero-Knowledge Proofs for Blockchain Confidential Transactions has 
 - [2022-08] Our paper <a href="http://sites.computer.org/debull/A22june/p14.pdf" target="_blank">BlockShare</a> on Blockchain Data Sharing was accepted by IEEE Data Engineering Bulletin.
 - [2022-06] Our paper <a href="https://ieeexplore.ieee.org/document/9981149" target="_blank">EPAR</a> on Augmented Reality was accepted by IROS 2022.
 - [2022-01] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was selected as a popular article by IEEE TNSE.
-- [2021-04] Won Best Paper Award at DASFAA 2021.
+- [2021-04] Won Best Paper Award at DASFAA 2021.🎖️
 - [2021-03] Our paper on Privacy-Preserving Blockchain Data Verification was accepted by SIGMOD 2021.
 - [2021-01] Our paper on Digital Contact Tracing was accepted by DASFAA 2021.
 - [2020-12] Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning was accepted by IEEE TNSE.
 - [2020-10] Awarded a grant from Guangdong Basic and Applied Basic Research Foundation for Blockchain research.
 - [2020-01] I joined the department of Computer Science at HKBU as Research Assistant Professor.
 - [2019-11] Delivered an <a href="https://www.gs1hk.org/events/gs1hk-almc-forum-2019" target="_blank">Invited Talk on Blockchain Innovation</a> at <a href="https://www.hktdc.com/ncs/almc2019/en/main/index.html" target="_blank">HKTDC ALMC 2019</a>.
- - [2019-06] Delivered an Invited Talk on Blockchain Applications in Smart Supply Chain at <a href="https://www.gs1hk.org/gs1hk-iot-conference" target="_blank">GS1 HK IoT Conference 2019</a>.
-</div>
-
-- ...
+- [2019-06] Delivered an Invited Talk on Blockchain Applications in Smart Supply Chain at <a href="https://www.gs1hk.org/gs1hk-iot-conference" target="_blank">GS1 HK IoT Conference 2019</a>.
+-->
