@@ -41,7 +41,7 @@ Our paper vProChain on Blockchain-based Provenance Verification in IIoT has been
 - [Dec. 2025] I am elected to join the CCF Technical Committee on Blockchain.
 - [Nov. 2025] I am honored to receive the IEEE Outstanding Service Award.🏆
 - [Oct. 2025] I am serving as a Program Vice-Chair of <a href="https://ieee-cybermatics.org/2025/ica3pp/index.html" target="_blank">International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)</a>. Welcome submissions!
-- [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.
+- [Sep. 2025] I have been recognized among <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8" target="_blank">the World’s Top 2% Scientists</a> by Stanford University.🎖️
 - [Aug. 2025] Our paper on Hexapod Robot Contorl has received the Best Student Paper Award at IEEE ICIA 2025. Congratulations to Shichang Huang!🏆 <br>
 Our paper on Blockchain-based DID Management has received the Best Workshop Paper Award at BCRA 2025. Congratulations to Jiamin Deng!🏆 <br>
 I am serving as a Program Chair of <a href="https://bcra-conf.github.io/2025/program/panelBWEB3/" target="_blank">International Workshop on Blockchain and Web 3.0 (BWEB3 2025)</a>. Welcome submissions! <br>
