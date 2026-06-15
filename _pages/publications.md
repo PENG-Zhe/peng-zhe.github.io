@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security", _Blockchain: Research and Applications_, 2026. (IF: 5.6, JCR Q1)
+1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "[Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security](https://www.sciencedirect.com/science/article/pii/S2096720926000722)", _Blockchain: Research and Applications_, 2026. (IF: 5.6, JCR Q1)
 
 1. J. Deng, **Z. Peng**, C. Zhang, S. Gu, X. Xie, and B. Xiao, "[vProChain: Efficient Provenance Verification in Industrial Internet of Things (IIoT)](https://ieeexplore.ieee.org/document/11534176)", _IEEE Internet of Things Journal (**IoTJ**)_, May 2026. (IF: 8.9, JCR Q1)
 
