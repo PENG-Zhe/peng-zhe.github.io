@@ -24,7 +24,7 @@ layout: archive
   * Decentralized identity (DID) for Web3
 
 * **Shichang Huang** (BJTU), 2025 - Present
-  * Knowledge-Enhanced graph learning for metal-forming processes design
+  * Knowledge-enhanced graph learning for metal additive manufacturing processes design
 
 * **Ruoyao Tian** (ZJU), 2026 - Present
   * Physics-informed interpretable AI
