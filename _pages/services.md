@@ -23,6 +23,7 @@ layout: archive
 
 
 ## Conference Organization
+* Session Chair, "Security/Privacy/Trust 4: Authentication in Security", IEEE International Conference on Distributed Computing Systems (ICDCS), 2026
 * Program Vice-Chair, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 2025
 * Program Chair, International Workshop on Blockchain and Web3.0 (BWEB3), 2025
 * Organizing Chair, International Conference on Digital-Economy-Driven Business, Finance and Information Technology (DBFIT), 2025
