@@ -18,14 +18,14 @@ Dr. Peng is currently an Assistant Professor at the [Department of Industrial an
 
 He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University, the M.Phil. degree in Electronic Engineering and Information Science from University of Science and Technology of China, and the B.Eng. degree in Communication Engineering from Northwestern Polytechnical University. He was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University.
 
-His primary research interests focus on Data-driven Industrial Intelligence and Systems, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious conferences and journals, such as ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/ICCV/IROS, ACL, IJCV, IEEE TKDE/TMC/TPDS/TDSC/TIFS, etc. 
+His primary research interests focus on data-driven Industrial Intelligence and Systems, including Blockchain and Web 3.0, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious conferences and journals, such as ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/ICCV/IROS, ACL, IJCV, IEEE TKDE/TMC/TPDS/TDSC/TIFS, etc. 
 
 He received several premium awards, such as RGC Early Career Award 2026, five Best Paper Awards from first-tier conferences, and IEEE Outstanding Service Award 2025. He has been recognized among the World’s Top 2% Scientists by Stanford University for consecutive years since 2024.
 
 
 
 # Openings
-We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in **(i) Blockchain and Web3**, and **(ii) AI for Materials Manufacturing**. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
+We are looking for highly self-motivated Postdoctoral Fellows and Ph.D. Students who are interested and experienced in **(i) Blockchain and Web 3.0**, and **(ii) AI for Materials Manufacturing**. Applicants are welcome to apply for prestigious [Fellowship & Scholarship Schemes](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/){:target="_blank"}. If you are interested, please email me your CV, transcripts, IELTS/TOEFL results, and publications.
 
 Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-research/uris/about-uris/){:target="_blank"} or dissertation supervision are also welcome. 
 
