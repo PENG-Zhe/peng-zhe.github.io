@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- -->
 
 <!-- 
 Prior to joining ISE, he held academic position in the Department of Computer Science at Hong Kong Baptist University, working closely with [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/){:target="_blank"}, and was the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn){:target="_blank"}.
@@ -21,8 +20,8 @@ He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic 
 
 His primary research interests focus on Data-driven Industrial Intelligence, including Blockchain and Web3, Trustworthy Machine Learning, Autonomous Systems, Data Security and Privacy. He has published a series of papers in prestigious conferences and journals, such as ACM SIGMOD/CCS, IEEE ICDE/INFOCOM/ICCV/IROS, ACL, IJCV, IEEE TKDE/TMC/TPDS/TDSC/TIFS, etc. 
 
-He has been recognized among the World’s Top 2% Scientists by Stanford University for consecutive years since 2024, and received five Best Paper Awards from first-tier conferences and IEEE Outstanding Service Award 2025.
-<!-- several premium awards, such as -->
+He received several premium awards, such as RGC Early Career Award 2026, five Best Paper Awards from first-tier conferences, and IEEE Outstanding Service Award 2025. He has been recognized among the World’s Top 2% Scientists by Stanford University for consecutive years since 2024.
+
 
 
 # Openings
