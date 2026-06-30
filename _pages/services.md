@@ -48,6 +48,7 @@ layout: archive
 
 ## Technical Reviewer
 * ACM Computing Surveys (CSUR)
+* ACM Transactions on Internet Technology (TOIT)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 * IEEE Transactions on Computers (TC)
 * IEEE Transactions on Big Data (TBD)
