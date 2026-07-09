@@ -30,7 +30,7 @@ layout: archive
   * Physics-informed interpretable AI
 
 * **Nan Ye** (ZJU), 2026 - Present
-  * AI-driven in situ measurement for ultra-precision machining
+  * AI-driven in-situ measurement for ultra-precision machining
 
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM-assisted aerodynamics design
