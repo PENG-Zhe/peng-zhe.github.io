@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
+1. Q. Yang, W. Li, **Z. Peng**, F. Cheng, and Y. Yuan, "MRM++: Enhanced Masked Relation Modeling for Multi-Modal MedicalPre-training", _International Journal of Computer Vision (**IJCV**)_, June 2026. (IF: 10.3, JCR Q1)
+
 1. J. Deng, **Z. Peng**, C. Zhang, S. Gu, X. Xie, and B. Xiao, "[vProChain: Efficient Provenance Verification in Industrial Internet of Things (IIoT)](https://ieeexplore.ieee.org/document/11534176)", _IEEE Internet of Things Journal (**IoTJ**)_, May 2026. (IF: 8.7, JCR Q1)
 
 1. J. Deng, S. Huang, Q. Han, **Z. Peng**, R. Gu, Y. Li, C.-K. Chu, S. Gao, and B. Xiao, "[Blockchain-based Decentralized Identity Management for Cyber-Physical Systems Security](https://doi.org/10.1016/j.bcra.2026.100510)", _Blockchain: Research and Applications_, March 2026. (IF: 6.5, JCR Q1)
