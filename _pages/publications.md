@@ -15,7 +15,7 @@ layout: archive
 
 1. S. Li, Z. Yang, S. Li, X. Xia, H. Liu, X. Zhang, G. Chen, D. Fang, Y. Tai, and **Z. Peng**, "[LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://openreview.net/forum?id=Aqm2Pf2t7d&referrer=%5Bthe%20profile%20of%20Zhe%20Peng%5D(%2Fprofile%3Fid%3D~Zhe_Peng1))", in _Proc. of the Annual Meeting of the Association for Computational Linguistics (**ACL '26**)_, San Diego, California, USA, 2026.
 
-1. Z. Wang, X. Cai, S. Gao, **Z. Peng**, and B. Xiao, "R.S.D: A Regulatory Anonymity System with Decentralized Identity", in _Proc. of the IEEE International Conference on Communications (**ICC '26**)_, Glasgow, Scotland, UK, 2026. (**Best Paper Award**)
+1. Z. Wang, X. Cai, S. Gao, **Z. Peng**, and B. Xiao, "[R.S.D: A Regulatory Anonymity System with Decentralized Identity](https://ieeexplore.ieee.org/document/11588233)", in _Proc. of the IEEE International Conference on Communications (**ICC '26**)_, Glasgow, Scotland, UK, 2026. (**Best Paper Award**)
 
 1. Z. Liang, B. Chen, L. Ye, C. Sun, S. Wang, and **Z. Peng**, "A study of the spectrum resource leasing method based on ERC4907 extension", in _Proc. of the International Conference on Computer and Communication Systems (**ICCCS '26**)_, Wuhan, China, 2026.
 
