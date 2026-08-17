@@ -35,12 +35,14 @@ layout: archive
 * **Tianyi Sun** (SDU), 2026 - Present
   * LLM-assisted aerodynamics design
 
-* **Zetian Sun** (Dual PhD student with NPU), 2026 - Present
+* **Zetian Sun** (Dual PhD student with NPU), 2027 - Present
   * Autonomous systems
 
 * **Qi Han** (MPhil), 2025 - Present
   * Data-centric quality monitoring and control
 
+* **Zimin Liu** (MPhil), 2027 - Present
+  * Autonomous systems
 
 ## Research Assistants
 * **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
