@@ -5,50 +5,50 @@ layout: archive
 ---
 
 ## Postdoctoral Fellows
-* **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - Present
+* **[Dr. Kun Yan](https://quinyim.github.io/)** (XDU), 2025 - 
   * Blockchain, network resource management, data security and privacy, SAGIN
 
-* **[Dr. Wenhao Li](https://wenh-li.github.io/)** (HKCityU), 2026 - Present
+* **[Dr. Wenhao Li](https://wenh-li.github.io/)** (HKCityU), 2026 - 
   * Security and privacy of IoT systems, wireless sensing, and side-channel analysis
 
-* **Dr. Shengdong Wang** (NPU), 2026 - Present
+* **Dr. Shengdong Wang** (NPU), 2026 - 
   * Aviation data analysis, fault diagnosis
 
-* **Dr. Xuefei Cui** (SDU), 2026 - Present
+* **Dr. Xuefei Cui** (SDU), 2026 - 
   * Data-driven additive manufacturing, multiphysics field coupling modeling
 
 
 ## Ph.D. Students
 <!--## PhD/MPhil Students-->
-* **Jiamin Deng** (CQU with National Scholarship*2), 2024 - Present
+* **Jiamin Deng** (CQU with National Scholarship*2), 2024 - 
   * Decentralized identity (DID) for Web3
 
-* **Shichang Huang** (BJTU), 2025 - Present
+* **Shichang Huang** (BJTU), 2025 - 
   * Graph learning for metal additive manufacturing processes design
 
-* **Ruoyao Tian** (ZJU), 2026 - Present
+* **Ruoyao Tian** (ZJU), 2026 - 
   * Physics-informed interpretable AI
 
-* **Nan Ye** (ZJU), 2026 - Present
+* **Nan Ye** (ZJU), 2026 - 
   * AI-driven in-situ measurement for ultra-precision machining
 
-* **Tianyi Sun** (SDU), 2026 - Present
+* **Tianyi Sun** (SDU), 2026 - 
   * LLM-assisted aerodynamics design
 
-* **Zetian Sun** (Dual PhD student with NPU), 2027 - Present
+* **Zetian Sun** (Dual PhD student with NPU), 2027 - 
   * Autonomous systems
 
-* **Qi Han** (MPhil), 2025 - Present
+* **Qi Han** (MPhil), 2025 - 
   * Data-centric quality monitoring and control
 
-* **Zimin Liu** (MPhil), 2027 - Present
+* **Zimin Liu** (MPhil), 2027 - 
   * Autonomous systems
 
 ## Research Assistants
-* **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - Present
+* **[Yan Zhuang](https://lake233.github.io/)** (UTA), 2026 - 
   * Multimodal AI for quality evaluation
 
-* **Bohan Zhang** (Exchange research student from UESTC), 2026 - Present
+* **Bohan Zhang** (Exchange research student from UESTC), 2026 - 
   *  AI-enabled supply chain optimization
 
 <!--
@@ -65,7 +65,7 @@ layout: archive
 
 
 ## Visiting Professor
-* **[Xin Xie](https://xiexincn.github.io/)** (2025 - Present)
+* **[Xin Xie](https://xiexincn.github.io/)** (2025 - )
   * Professor, School of Computer Science and Technology, Tianjin University
 
 
