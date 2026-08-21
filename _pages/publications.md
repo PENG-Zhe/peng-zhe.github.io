@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. Y. Li, Z. Lu, J. Deng, Y. Yao, Y. Yin, G. Li, S. Gu, **Z. Peng**, and B. Xiao, "[Multi-Agent Reinforcement Learning Assisted Blockchain System for Dynamic UAV Task Allocation]", _IEEE Internet of Things Journal (**IoTJ**)_, August 2026. (IF: 8.7, JCR Q1)
+1. Y. Li, Z. Lu, J. Deng, Y. Yao, Y. Yin, G. Li, S. Gu, **Z. Peng**, and B. Xiao, "[Multi-Agent Reinforcement Learning Assisted Blockchain System for Dynamic UAV Task Allocation](https://ieeexplore.ieee.org/document/11658377)", _IEEE Internet of Things Journal (**IoTJ**)_, August 2026. (IF: 8.7, JCR Q1)
 
 1. Q. Yang, W. Li, **Z. Peng**, F. Cheng, and Y. Yuan, "[MRM++: Enhanced Masked Relation Modeling for Multi-Modal Medical Pre-training](https://link.springer.com/article/10.1007/s11263-026-02938-5)", _International Journal of Computer Vision (**IJCV**)_, June 2026. (IF: 10.3, JCR Q1)
 
