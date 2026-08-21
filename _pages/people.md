@@ -35,7 +35,7 @@ layout: archive
 * **Tianyi Sun** (SDU), 2026 - 
   * LLM-assisted aerodynamics design
 
-* **Zetian Sun** (Dual PhD student with NPU), 2027 - 
+* **Zetian Sun** (Dual PhD student with NPU), 2026 - 
   * Autonomous systems
 
 * **Qi Han** (MPhil), 2025 - 
