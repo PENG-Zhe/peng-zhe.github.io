@@ -69,7 +69,7 @@ layout: archive
 
 
 ## Former Members
-* **Bohan Zhang** (Exchange research student from UESTC, 2026)
+* **Bohan Zhang** (Exchange undergraduate student from UESTC, 2026)
 * **Wenqi Zhang** (Visiting PhD student from NPU, 2025 - 2026)
 * **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc, 2024-2025), First Employment: Associate Professor, School of Cyber Science and Engineering, Southeast University
 
