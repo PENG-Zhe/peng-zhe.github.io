@@ -69,10 +69,10 @@ layout: archive
 -->
 
 ## Former Members
-* **[Xin Xie](https://xiexincn.github.io/)** (Visiting Professor, 2025 - 2026): Professor, College of Intelligence and Computing, Tianjin University
+* **[Xin Xie](https://xiexincn.github.io/)** (Visiting Professor, 2025 - 2026): Professor@Tianjin University, College of Intelligence and Computing
 * **Bohan Zhang** (Exchange undergraduate student from UESTC, 2026)
 * **Wenqi Zhang** (Visiting PhD student from NPU, 2025 - 2026)
-* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc, 2024 - 2025): Associate Professor, School of Cyber Science and Engineering, Southeast University
+* **[Haotian Wu](https://cyber.seu.edu.cn/wht/list.htm)** (Postdoc, 2024 - 2025): Associate Professor@Southeast University，School of Cyber Science and Engineering
 
 
 <!--
