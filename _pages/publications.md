@@ -17,7 +17,7 @@ layout: archive
 
 1. B. Zhang, H. Cui, **Z. Peng**, Y. Hua, Z. Yu, and B. Guo, "[ObliMIG: Enabling Data Migration on Oblivious Storage without Interruption](https://ieeexplore.ieee.org/document/11619042)", in _Proc. of the IEEE International Conference on Distributed Computing Systems (**ICDCS '26**)_, Seoul, South Korea, 2026.
 
-1. S. Li, Z. Yang, S. Li, X. Xia, H. Liu, X. Zhang, G. Chen, D. Fang, Y. Tai, and **Z. Peng**, "[LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://openreview.net/forum?id=Aqm2Pf2t7d&referrer=%5Bthe%20profile%20of%20Zhe%20Peng%5D(%2Fprofile%3Fid%3D~Zhe_Peng1))", in _Proc. of the Annual Meeting of the Association for Computational Linguistics (**ACL '26**)_, San Diego, California, USA, 2026.
+1. S. Li, Z. Yang, S. Li, X. Xia, H. Liu, X. Zhang, G. Chen, D. Fang, Y. Tai, and **Z. Peng**, "[LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://aclanthology.org/2026.findings-acl.2009/)", in _Proc. of the Annual Meeting of the Association for Computational Linguistics (**ACL '26**)_, San Diego, California, USA, 2026.
 
 1. Z. Wang, X. Cai, S. Gao, **Z. Peng**, and B. Xiao, "[R.S.D: A Regulatory Anonymity System with Decentralized Identity](https://ieeexplore.ieee.org/document/11588233)", in _Proc. of the IEEE International Conference on Communications (**ICC '26**)_, Glasgow, Scotland, UK, 2026. (**Best Paper Award**)
 
