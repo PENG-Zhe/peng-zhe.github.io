@@ -24,7 +24,7 @@ layout: archive
   * Decentralized identity (DID) for Web3
 
 * **Shichang Huang** (BJTU), 2025 - 
-  * Graph learning for metal additive manufacturing processes design
+  * Intelligent processes design in metal additive manufacturing
 
 * **Ruoyao Tian** (ZJU), 2026 - 
   * Physics-informed interpretable AI
