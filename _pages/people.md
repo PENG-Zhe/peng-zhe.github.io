@@ -24,7 +24,7 @@ layout: archive
   * Decentralized identity (DID) for Web3
 
 * **Shichang Huang** (BJTU), 2025 - 
-  * Intelligent processes design in metal additive manufacturing
+  * AI-driven metal additive manufacturing
 
 * **Ruoyao Tian** (ZJU), 2026 - 
   * Physics-informed interpretable AI
@@ -51,6 +51,7 @@ layout: archive
 
 
 <!--
+  * Intelligent processes design in metal additive manufacturing
   * Physics-constrained
   * Physics-informed reinforcement learning for metal-forming processes design
   * Agentic AI-assisted Production Scheduling
