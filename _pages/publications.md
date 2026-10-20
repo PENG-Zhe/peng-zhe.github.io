@@ -15,6 +15,8 @@ layout: archive
 
 1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications](https://ieeexplore.ieee.org/abstract/document/11434985)", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 8.8, JCR Q1)
 
+1. Q. Han, T. Sun, Y. Zhuang, and **Z. Peng**, "SurfaceCopilot: A Verifier-Mediated LLM Agent for Process Design in Robotic Precision Micro-Milling", in \emph{Proc. of the IEEE International Conference on Robotics and Biomimetics (\textbf{ROBIO '26})}, Tengchong, China, 2026.
+
 1. B. Zhang, H. Cui, **Z. Peng**, Y. Hua, Z. Yu, and B. Guo, "[ObliMIG: Enabling Data Migration on Oblivious Storage without Interruption](https://ieeexplore.ieee.org/document/11619042)", in _Proc. of the IEEE International Conference on Distributed Computing Systems (**ICDCS '26**)_, Seoul, South Korea, 2026.
 
 1. S. Li, Z. Yang, S. Li, X. Xia, H. Liu, X. Zhang, G. Chen, D. Fang, Y. Tai, and **Z. Peng**, "[LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://aclanthology.org/2026.findings-acl.2009/)", in _Proc. of the Annual Meeting of the Association for Computational Linguistics (**ACL '26**)_, San Diego, California, USA, 2026.
