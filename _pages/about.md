@@ -32,6 +32,7 @@ Undergraduate and MSc students seeking [URIS](https://www.polyu.edu.hk/gs/ug-res
 
 # News
 <!-- -->
+- [Nov. 2026] Dr Wenhao Li received 2026 UK National Edge AI Hub Future Star Award. Congratulations!🏆 <br>
 - [Jun. 2026] I am honored to receive the Hong Kong Research Grants Council (RGC) Early Career Award.🏆
 - [May 2026] Our paper on Privacy-preserving Decentralized Identity has received the Best Paper Award at IEEE ICC 2026.🏆<br>
 Our paper ObliMIG on Oblivious Storage for Online Data Migration has been accepted by ICDCS 2026. <br>
