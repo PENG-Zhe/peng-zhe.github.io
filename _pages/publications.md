@@ -15,6 +15,10 @@ layout: archive
 
 1. X. Gao, X. Xie, X. Liu, **Z. Peng**, X. Tao, X. Tong, C. Zhang, Z. Gong, J. Chen, S. Chen, K. Li, "[CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications](https://ieeexplore.ieee.org/abstract/document/11434985)", _IEEE Transactions on Mobile Computing (**TMC**)_, March 2026. (IF: 8.8, JCR Q1)
 
+1. K. Yan and **Z. Peng**, "ASMQ: Authenticated Selective Measurement for Distributed Quantum Computing", in _Proc. of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA '26**)_, Kuala Lumpur, Malaysia, 2026.
+
+1. K. Yan, M. Zhao, C. Di, X. Ren, C. Zhang, C. Lin, and **Z. Peng**, ``Practicality Is All You Need: A Decentralized Framework for Cross-Chain Data Transmission", in _Proc. of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA '26**)_, Kuala Lumpur, Malaysia, 2026.
+
 1. Q. Han, T. Sun, Y. Zhuang, and **Z. Peng**, "SurfaceCopilot: A Verifier-Mediated LLM Agent for Process Design in Robotic Precision Micro-Milling", in _Proc. of the IEEE International Conference on Robotics and Biomimetics (**ROBIO '26**)_, Tengchong, China, 2026.
 
 1. B. Zhang, H. Cui, **Z. Peng**, Y. Hua, Z. Yu, and B. Guo, "[ObliMIG: Enabling Data Migration on Oblivious Storage without Interruption](https://ieeexplore.ieee.org/document/11619042)", in _Proc. of the IEEE International Conference on Distributed Computing Systems (**ICDCS '26**)_, Seoul, South Korea, 2026.
