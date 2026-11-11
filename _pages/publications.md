@@ -17,7 +17,7 @@ layout: archive
 
 1. K. Yan and **Z. Peng**, "ASMQ: Authenticated Selective Measurement for Distributed Quantum Computing", in _Proc. of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA '26**)_, Kuala Lumpur, Malaysia, 2026.
 
-1. K. Yan, M. Zhao, C. Di, X. Ren, C. Zhang, C. Lin, and **Z. Peng**, ``Practicality Is All You Need: A Decentralized Framework for Cross-Chain Data Transmission", in _Proc. of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA '26**)_, Kuala Lumpur, Malaysia, 2026.
+1. K. Yan, M. Zhao, C. Di, X. Ren, C. Zhang, C. Lin, and **Z. Peng**, "Practicality Is All You Need: A Decentralized Framework for Cross-Chain Data Transmission", in _Proc. of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA '26**)_, Kuala Lumpur, Malaysia, 2026.
 
 1. Q. Han, T. Sun, Y. Zhuang, and **Z. Peng**, "SurfaceCopilot: A Verifier-Mediated LLM Agent for Process Design in Robotic Precision Micro-Milling", in _Proc. of the IEEE International Conference on Robotics and Biomimetics (**ROBIO '26**)_, Tengchong, China, 2026.
 
