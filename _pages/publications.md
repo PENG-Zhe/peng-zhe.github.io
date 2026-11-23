@@ -35,7 +35,7 @@ layout: archive
 
 1. Y. Li, F. Yin, Y. Zheng, W. Xu, J.Y. Kim, and **Z. Peng**, "[SDR: Stackelberg-based Deep Reinforcement Learning for Multi-skill Spatiotemporal Task Allocation in AIoT Systems](https://www.sciencedirect.com/science/article/pii/S0140366425002403)", _Computer Communications_, vol. 242, pp. 108283, July 2025. (IF: 4.3, JCR Q2)
 
-1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 12, No. 16, pp. 32366-32378, June 2025. (IF: 8.9, JCR Q1)
+1. W. Xu, J. Deng, J. Yu, S. Mao, Y. Li, **Z. Peng**, and B. Xiao, "[Blockchain-based Verifiable Decentralized Identity for Intelligent Flexible Manufacturing](https://ieeexplore.ieee.org/document/11025828)", _IEEE Internet of Things Journal (**IoTJ**)_, Vol. 12, No. 16, pp. 32366-32378, June 2025. (IF: 8.9, JCR Q1, **ESI Highly Cited Paper**)
 
 1. H. Wu, Y. Tang, Z. Sheng, J. Tao, C. Lin, and **Z. Peng**, "[TELEX: Two-Level Learned Index for Rich Queries on Enclave-based Blockchain Systems](https://ieeexplore.ieee.org/document/10979200)", _IEEE Transactions on Knowledge and Data Engineering (**TKDE**)_, Vol. 37, No. 7, pp. 4299-4313, April 2025. (IF: 10.4, JCR Q1)
 
