@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
+1. Q. Han, B. Zhang, Z. Xu, W. S. Yip, S. To, and \textbf{Zhe Peng}, ``PRISM: Visual Learning for Patch-Scale Surface Roughness Prediction in Robotic Precision Manufacturing", \emph{npj Advanced Manufacturing}, November 2026.
+
 1. M. Zhao, **Z. Peng**, Q. Li, C. Zhang, L. Zhu, and B. Xiao, "[OwnerPro: Efficient and Policy-compliant Multi-level Data Processing for Cloud Storage](https://ieeexplore.ieee.org/document/11709483)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, September 2026. (IF: 6.8, JCR Q1)
 
 1. Y. Li, Z. Lu, J. Deng, Y. Yao, Y. Yin, G. Li, S. Gu, **Z. Peng**, and B. Xiao, "[Multi-Agent Reinforcement Learning Assisted Blockchain System for Dynamic UAV Task Allocation](https://ieeexplore.ieee.org/document/11658377)", _IEEE Internet of Things Journal (**IoTJ**)_, August 2026. (IF: 8.7, JCR Q1)
