@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 ---
-1. Q. Han, B. Zhang, Z. Xu, W. S. Yip, S. To, and \textbf{Zhe Peng}, ``PRISM: Visual Learning for Patch-Scale Surface Roughness Prediction in Robotic Precision Manufacturing", \emph{npj Advanced Manufacturing}, November 2026.
+1. Q. Han, B. Zhang, Z. Xu, W. S. Yip, S. To, and **Z. Peng**, "PRISM: Visual Learning for Patch-Scale Surface Roughness Prediction in Robotic Precision Manufacturing", _npj Advanced Manufacturing_, November 2026.
 
 1. M. Zhao, **Z. Peng**, Q. Li, C. Zhang, L. Zhu, and B. Xiao, "[OwnerPro: Efficient and Policy-compliant Multi-level Data Processing for Cloud Storage](https://ieeexplore.ieee.org/document/11709483)", _IEEE Transactions on Dependable and Secure Computing (**TDSC**)_, September 2026. (IF: 6.8, JCR Q1)
 
